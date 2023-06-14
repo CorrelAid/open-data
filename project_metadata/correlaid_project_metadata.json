@@ -1,0 +1,1526 @@
+{
+  "meta": {
+    "last_published": 1686750945226,
+    "last_updated": 1686750844105,
+    "n": 20
+  },
+  "projects": [
+    {
+      "id": 49,
+      "project_id": "2019-01-MAP",
+      "status": "published",
+      "date_updated": "2023-06-09T12:35:47.707Z",
+      "start_date": "2019-01-15",
+      "end_date": "2019-07-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "PROCESS"
+      ],
+      "type": [
+        "EXPLORATORY",
+        "MODELLING"
+      ],
+      "language": [
+        "RSTATS"
+      ],
+      "Organizations": [
+        {
+          "id": 86,
+          "short_id": "MAP",
+          "legal_form": "ev",
+          "sector": "social_services",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Mannheimer Platte",
+              "website": "https://mannheimer-platte.de/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Mannheimer Platte",
+              "website": "https://mannheimer-platte.de/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://osf.io/3zsn6/",
+          "output_type": "report",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Abschlussbericht"
+            },
+            {
+              "language": "en-US",
+              "description": "Final report"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "de-DE",
+          "title": "Lebensmittelverschwendung reduzieren und Planung verbessern: Zeitreihenanalyse für ein Restaurant für bedürftige Menschen",
+          "summary": "Die \"Mannheimer Platte\" ist ein Restaurant, das allen, vor allem aber armen Menschen, ein bezahlbares Mittagessen anbietet.  Das Projekt mit CorrelAid hatte zum Ziel, die Prozesse innerhalb der Organisation zu optimieren und zu evaluieren. Das Team der Mannheimer Platte benötigte Einblicke in die Faktoren, die den Absatz und die Nachfrage nach den Mahlzeiten beeinflussen, um die Beschaffungsplanung zu verbessern. Die Daten bestanden aus 17 Jahren Zeitreihen, die täglich aufgezeichnet wurden und Variablen wie die Anzahl der ausgegebenen Speisen und Getränke und den Gesamtumsatz enthielten. Die Daten waren in Excel-Dateien gespeichert. Das CorrelAid-Team half bei der Datenanalyse mit R und SAS, indem es die Daten bereinigte und aufbereitete. Das Projekt lieferte Einblicke, die die Intuition der Ehrenamtlichen hinsichtlich der Beliebtheit des Essens an bestimmten Wochentagen bestätigten, und zeigte Muster auf, wie z.B. reduzierte Bestellungen und verstärkte Nutzung von Gutscheinen gegen Ende des Monats. Die Organisation lernte den Wert von Daten und ihr Potenzial zur Entscheidungsfindung kennen. Die Ergebnisse des Projekts wurden im Rahmen eines Übergabeworkshops und von Präsentationen weitergegeben, einschließlich leicht verständlicher Heuristiken, die aus den statistischen Modellen abgeleitet wurden.",
+          "description": null
+        },
+        {
+          "language": "en-US",
+          "title": "Reducing food waste and improving planning processes: time series analysis for a restaurant for those in need",
+          "summary": "The \"Mannheimer Platte\" is a restaurant that offers affordable lunches to everyone, but especially those without financial means.  The project with CorrelAid aimed at optimizing and evaluating processes within the organization. The Mannheimer Platte team needed insights into the factors influencing sales and demand for the meals to improve procurement planning. The data consisted of 17 years of time-series data, recorded daily, including variables such as the number of meals and beverages served and the total revenue. The data was stored in Excel files, and the CorrelAid team helped with data analysis using R and SAS, performing data cleaning and wrangling tasks. The project provided insights confirming the intuition of the volunteers regarding the meal's popularity on certain weekdays and revealed patterns such as reduced orders and increased use of vouchers towards the end of the month. The organization learned the value of data and its potential to inform decision-making. The outputs of the project were shared through a handover workshop and presentations, including easy-to-understand heuristics derived from statistical models.",
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "project_id": "2015-08-PBN",
+      "status": "published",
+      "date_updated": "2023-06-13T11:55:32.475Z",
+      "start_date": "2015-08-15",
+      "end_date": "2016-02-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": false,
+      "data": [
+        "survey"
+      ],
+      "type": [
+        "exploratory"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 101,
+          "short_id": "PBN",
+          "legal_form": "ev",
+          "sector": "social_services",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Pfadfinder*innenbund Nord",
+              "website": "https://www.pbn.de/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Pfadfinder*innenbund Nord",
+              "website": "https://www.pbn.de/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Analysis of a member survey with the Pfadfinderbund Nord",
+          "summary": null,
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Analyse einer Mitgliederbefragung des Pfadfinderbunds Nord",
+          "summary": null,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "project_id": "2018-11-TVK",
+      "status": "published",
+      "date_updated": "2023-06-06T12:24:54.005Z",
+      "start_date": "2018-11-15",
+      "end_date": "2019-04-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "survey"
+      ],
+      "type": [
+        "DATA_COLLECTION",
+        "REPORTING"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 113,
+          "short_id": "TVK",
+          "legal_form": null,
+          "sector": "arts_culture_sports",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Turnverein 1880 Käfertal",
+              "website": "https://www.tv-kaefertal.de/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Turnverein 1880 Käfertal",
+              "website": "https://www.tv-kaefertal.de/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": {
+        "description": "Im Jahr 2021 haben Tiere und die Natur im Kontext des Klimawandels oft Schlagzeilen gemacht. In dieser Folge diskutieren wir, wie Daten Biodiversität fördern können. Dafür haben wir mit Thorsten Kluß und Alex Melemenidis darüber gesprochen, wie das „Bee Observer“ Projekt helfen kann, mehr Einblicke in die Lebensumstände von Insekten zu bekommen. Außerdem tauchen wir zusammen ein in die tägliche Arbeit von Ökologen & „Computational Ecologist“ Cédric Scherer. Also hummelt euch in eine Decke und genießt die Folge.",
+        "soundcloud_link": "https://soundcloud.com/correlaid_podcast/data4good-in-der-okologie",
+        "title": "Data4Good in der Ökologie",
+        "id": 40
+      },
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Online Survey of the members of TV 1880 Käfertal",
+          "summary": "CorrelAid teamed up with TV Käfertal to conduct a comprehensive member survey to evaluate the club's structures and obtain feedback on communication effectiveness. Through an online survey tool and statistical analyses, the CorrelAid team obtained meaningful responses from over 150 members and provided the association with a nearly 30-page report of the survey data. The results helped the association adjust its strategies for further development, including recruiting trainers outside the club, and emphasized the need for regular evaluations of the association's structures. The project showcases how enabling data-based decision making can lead to a successful future for NPOs.",
+          "description": "<h1>The challenge</h1>\n<p>At the start of the project, TV K&auml;fertal was at the beginning of an extensive evaluation of the club&rsquo;s structures. On the one hand, the club&rsquo;s management wanted to get a picture of member satisfaction with regard to the sporting aspects of the club. On the other hand, the goal of the evaluation was to obtain feedback on the club&rsquo;s own communication and its effectiveness. It was particularly important to distinguish between the needs of regular members and those of volunteers in the club. For this reason, the association&rsquo;s board planned to conduct a comprehensive member survey at the beginning of 2019.</p>\n<h1>The data</h1>\n<p>In order to obtain as comprehensive an opinion as possible, a digital survey of members was conducted. This survey required the development of an online survey to which members could provide meaningful responses to various questions. Additionally, the design of the survey required that members and engagers in all their capacities were properly directed to the questions designed for them.</p>\n<p>After over 150 members of TV K&auml;fertal participated in the survey, the CorrelAid team set out to analyze, visualize, and describe the results in the context of the survey.</p>\n<p>The (anonymized) data of members from the club&rsquo;s card index helped both to draw a clear picture of the socio-demographic structure of the members and to learn more about the representativeness of the sample drawn.</p>\n<p>The <strong>solution</strong></p>\n<p>In collaboration with the Board of TV K&auml;fertal, the guiding themes and questions for the membership survey were defined in late 2018. Through social science expertise on the CorrelAid team, an online survey tool was selected and a meaningful set of questions, including response options, was designed. Extensive testing ensured that members were directed to the questions that were important to their role in the association. Due to the age structure within the association, particular attention was paid to making the questionnaire easy to understand and simple to use.</p>\n<p>After a successful field phase of the questionnaire, the team was concerned with illustrating the survey data in an understandable way. Statistical analyses were used to summarize and visualize the data. In early summer 2019, the results could be handed over to the association in a nearly 30-page report.</p>\n<h1>The impact</h1>\n<p>The results of the survey have sustainably helped the association and especially the board to put their decision and the association structures to the test. For example, the survey made it clear that the association&rsquo;s magazine, the &ldquo;Turnerbote,&rdquo; is seen as an essential part of the association and should be retained. On the other hand, however, it unfortunately also became clear that in the long term it would not be possible for the association to recruit enough exercise instructors from within their club. The board of directors decided to look for trainers outside the club and to spend less energy on recruiting within the club. This allowed the association to adjust its strategies for further development. Furthermore, the board emphasized that they would like to conduct a regular evaluation of the association&rsquo;s structures as well as other special topics in the future. For example, in the coming years, the conversion of the former military sites in Mannheim will create a new urban district in the immediate vicinity of the association. This presents the association with completely new challenges, which the association would like to proactively shape and thus would like to strive for further projects with CorrelAid in the future. The successfully completed project with CorrelAid enabled the association to make data-based decisions, which will lead the association sustainably into a successful future.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Mitgliederbefragung des Turnvereins Käfertal",
+          "summary": "Gemeinsam mit dem TV Käfertal führte CorrelAid eine umfassende Mitgliederbefragung durch, um die Vereinsstrukturen zu evaluieren und ein Feedback zur Effektivität der Kommunikation zu erhalten. Mithilfe eines Online-Umfragetools und statistischer Analysen erhielt das CorrelAid Team aussagekräftige Antworten von über 150 Mitgliedern und stellten dem Verein eine fast 30-seitige Analyse der Daten der Umfrage zur Verfügung. Die Ergebnisse halfen dem Verein, seine Strategien für die weitere Entwicklung anzupassen, einschließlich der Anwerbung von Trainern außerhalb des Vereins, und unterstrich die Notwendigkeit einer regelmäßigen Evaluierung der Vereinsstrukturen. Das Projekt zeigt, wie datengetriebene Entscheidungsfindungsprozesse Vereinen helfen können, die Zukunft proaktiv zu gestalten.",
+          "description": "<h1>Die Challenge</h1>\n<p>Der TV Käfertal stand zum Start des Projekts am Anfang einer umfangreichen Evaluation. Zum einen wollte die Vereinsführung sich ein Bild über die Zufriedenheit der Mitglieder hinsichtlich der sportlichen Aspekte des Vereins machen, zum anderen die eigene Kommunikation und deren Wirksamkeit hinterfragen. Wichtig war dabei besonders die Unterscheidung zwischen den Bedürfnissen von regulären Mitgliedern und den ehrenamtlich Engagierten des Vereins. Aus diesem Grund plante die Vereinsleitung zu Anfang des Jahres 2019 eine umfassende Mitgliederbefragung durchzuführen.</p>\n<h1>Die Datengrundlage</h1>\n<p>Um ein möglichst umfassendes Meinungsbild einzuholen, wurde auf eine digitale Befragung der Mitglieder gesetzt. Diese Befragung erforderte die Erstellung einer Onlineumfrage, in der Mitglieder zu den relevanten Fragen sinnvolle Antworten geben konnten. Zusätzlich erforderte das Design der Erhebung, dass Mitglieder und Engagierte in all ihren Funktionen zu den für sie entworfenen Fragen geleitet wurden.</p>\n<p>Nachdem über 150 Mitglieder des TV Käfertals bei der Erhebung mitgemacht hatten, setzte sich das Team von CorrelAid daran, die Ergebnisse auszuwerten, zu visualisieren und im Kontext der Befragung zu beschreiben.</p>\n<p>Die (anonymisierten) Mitgliederdaten aus der Vereinskartei halfen zudem ein übersichtliches Bild der soziodemografischen Struktur der Mitglieder zu zeichnen.</p>\n<h1>Der Ansatz</h1>\n<p>In Zusammenarbeit mit der Vereinsleitung wurden Ende 2018 die Leitthemen und -fragen für die Mitgliedererhebung definiert. Dank der sozialwissenschaftlichen Expertise des CorrelAid-Teams wurde ein Online-Umfragetool ausgwählt und ein sinnvoller Fragenkatalog samt Antwortmöglichkeiten entworfen. Durch umfangreiches Testen wurde sichergestellt, dass die Mitglieder zu den Fragen geleitet wurden, die für ihre Rolle im Verein wichtig waren. Aufgrund der Altersstruktur innerhalb des Vereins wurde insbesondere auf die leichte Verständlichkeit und Bedienung des Fragebogens geachtet.</p>\n<p>Nach einer erfolgreichen Feldphase der Befragung ging es für das Team darum, die Umfragedaten verständlich zu veranschaulichen. Durch statistische Analysen wurden die Daten zusammengefasst und visualisiert. Im Frühsommer 2019 konnten die Ergebnisse in einem fast 30-seitigen Bericht an den Verein übergeben werden.</p>\n<h1>Die Wirkung</h1>\n<p>Die Ergebnisse der Befragung haben dem Verein und insbesondere dem Vorstand nachhaltig dabei geholfen, ihre Entscheidung und die Vereinsstrukturen auf den Prüfstand zu stellen. So wurde durch die Befragung klar, dass das Vereinsmagazin, der “Turnerbote”, als essenzieller Teil des Vereins angesehen wird und erhalten bleiben soll. Auf der anderen Seite jedoch wurde leider auch klar, dass es dem Verein langfristig nicht möglich sein, aus ihrem Verein heraus genug Übungsleiter zu rekrutieren. So entschied sich der Vorstand dazu, maßgeblich nach Übungsleitern außerhalb des Vereins zu suchen und weniger Energie auf die Rekrutierung innerhalb des Vereins zu verwenden. So konnte der Verein seine Strategien zur Weiterentwicklung anpassen. Weiterhin betonte der Vorstand, dass sie zukünftig gerne eine regelmäßige Evaluation der Vereinsstrukturen sowie weiterer Spezialthemen durchführen würden. So soll in den kommenden Jahren durch die Konversion der ehemaligen Militärgelände in Mannheim ein neues Stadtviertel in unmittelbarer Nachbarschaft zum Verein entstehen. Dies stellt den Verein vor komplett neue Herausforderungen, welche der Verein gerne pro-aktiv gestalten möchte und somit gerne weitere Projekte mit CorrelAid in der Zukunft anstreben möchte. Das erfolgreich abgeschlossene Projekt mit CorrelAid ermöglichte dem Verein schlussendlich daten-basierte Entscheidungen zu treffen, welche den Verein nachhaltig in eine erfolgreiche Zukunft führen werden.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "project_id": "2019-02-MIN",
+      "status": "published",
+      "date_updated": "2023-06-09T10:16:20.561Z",
+      "start_date": "2019-02-15",
+      "end_date": "2019-11-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "exploratory",
+        "modelling"
+      ],
+      "language": [
+        "rstats",
+        "python"
+      ],
+      "Organizations": [
+        {
+          "id": 89,
+          "short_id": "MIN",
+          "legal_form": null,
+          "sector": "social_services",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Minor Kontor",
+              "website": "https://minor-kontor.de/neu-in-berlin/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Minor Kontor",
+              "website": "https://minor-kontor.de/neu-in-berlin/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://minor-kontor.de/migrationsberatung-4-0/",
+          "output_type": "project_documentation",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Seite des Minor Projekts"
+            },
+            {
+              "language": "en-US",
+              "description": "Homepage of the Minor project (in German)"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "tf-idf of Babel: Using text mining to optimize automated processes in multilingual contexts",
+          "summary": "The project \"Migrationsberatung 4.0\" by Minor EU focused on supporting newly arrived migrants in their labor market integration. The organization proactively engaged with the target groups on social media, particularly in relevant Facebook groups based on migrants' countries of origin. To streamline their work, the Minor team set up email notifications for new posts but faced the challenge of manually filtering out the bulk of notifications for irrelevant content. The CorrelAid team used R and Python to assist Minor by creating an interactive tool for post labeling, improving email Outlook filters based on labeled data, providing descriptive statistics for reporting purposes, and conducting experiments like topic modeling and sentiment analysis. The project resulted in time savings, better identification of relevant posts, and an improved report for funders. The project emphasized the importance of clear project goals, investment of time, and quality data for successful data projects.",
+          "description": null
+        },
+        {
+          "language": "de-DE",
+          "title": "tf-idf zu Babel: Text Mining zur Optimierung von automatisierten Prozessen in multilingualen Kontexten",
+          "summary": "Das Projekt \"Migrationsberatung 4.0\" von Minor EU konzentrierte sich auf die Unterstützung neu angekommener Migranten bei der Integration in den Arbeitsmarkt. Die Organisation trat proaktiv mit den Zielgruppen in den sozialen Medien in Kontakt, insbesondere in relevanten Facebook-Gruppen, die auf den Herkunftsländern der Migranten basieren. Um ihre Arbeit zu vereinfachen, richtete das Minor-Team E-Mail-Benachrichtigungen für neue Beiträge ein, stand aber vor der Herausforderung, irrelevante Inhalte aus der Masse der Benachrichtigungen manuell herauszufiltern. Das CorrelAid-Team nutzte R und Python, um Minor zu unterstützen, indem es ein interaktives Tool für die Beschriftung von Beiträgen entwickelte, die Filter für E-Mail-Benachrichtigungen auf der Grundlage gelabelter Daten verbesserte, deskriptive Statistiken für das Reporting zur Verfügung stellte und Experimente wie Topic Modeling und Sentiment Analysis durchführte. Das Projekt resultierte in Zeiteinsparungen, einer besseren Identifizierung relevanter Beiträge und einem verbesserten Bericht für Geldgeber. Das Projekt machte deutlich, wie wichtig klare Projektziele, die Investition von Zeit und die Qualität der Daten für erfolgreiche Datenprojekte sind.",
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "project_id": "2019-06-WEL",
+      "status": "published",
+      "date_updated": "2023-05-11T14:33:13.469Z",
+      "start_date": "2019-06-15",
+      "end_date": "2019-11-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "automation"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 116,
+          "short_id": "WEL",
+          "legal_form": null,
+          "sector": "professional_associations_unions",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Weltladen Dachverband",
+              "website": "https://www.weltladen.de/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Weltladen Dachverband",
+              "website": "https://www.weltladen.de/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": {
+        "description": "Unsere Show \"About CorrelAid\" dreht sich rund um Projekte, Lokalgruppen, Events und Personen bei CorrelAid.In dieser Folge spricht Lisa mit Annegret Lueg und Gideon May über ihr Projekt zur automatischen Reportgenerierung durch den Weltladen Dachverband. Wie das händische Zusammentragen der Ergebnisse aus vielen hundert Umfragen vereinfacht werden konnte und was das Team neben der technischen Umsetzung mitgenommen hat, erfahrt ihr hier.",
+        "soundcloud_link": "https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen",
+        "title": "About CorrelAid - Automatisierte Reportgenerierung für die Weltläden",
+        "id": 48
+      },
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Automating report generation to improve the work of World Shops",
+          "summary": "The CorrelAid team automated the creation of over 300 individualized reports for Weltladen Umbrella Association's annual survey of their members, saving time and reducing errors. The project involved using R and Latex to create reports and tables, as well as developing suggestions for questionnaire optimization. The automation approach has improved the validity of the data and reports and has given the association a better understanding of data-driven processes, while CorrelAid volunteers gained insights into the needs of NPOs.",
+          "description": "<h1>The challenge</h1>\n<p>The Weltladen Umbrella Association (de: Weltladen Dachverband) and the Eine Welt Netzwerk Bayern (in the following only Weltladen Umbrella Association) conduct surveys of their members - individual World Shops - every year in order to better understand their situation and needs. The members are also to be given useful feedback regarding their position in comparison to the other members / shops.</p>\n<p>The purpose of the survey is to provide individualized feedback to each World Shop that participates in the survey. The report contains various plots and descriptive statistics that allow each Weltladen to assess its situation in comparison to other shops. Before the CorrelAid project, the individual reports had been created manually with Excel and Word. With several hundred participating members, this was a very time-consuming and error-prone process, which was difficult to manage by the mostly volunteer staff of the Weltladen Umbrella Association.</p>\n<p>Hence, the Weltladen Umbrella Association wanted to automate this process. Furthermore, statistical analyses were conducted to reveal additional correlations in the structure amongst the members of the Weltladen Umbrella Association.</p>\n<h1>The data</h1>\n<p>The data was based on an online survey of the individual World Shops. The data set included a several hundred participating shops and several dozens of variables.</p>\n<p>The data was exported from the online survey tool as .csv files and made available to the CorrelAid team. During the project, the data was stored exclusively on the Weltladen Assocation&rsquo;s systems and CorrelAid servers to prevent unauthorised access.</p>\n<h1>The solution</h1>\n<p>CorrelAid was able to help the Weltladen Umbrella Association team by automating the manual and therefore error-prone and very time-consuming creation of the individual reports. For the automation, the freely accessible statistics software R and implicitly the text typesetting system Latex (to create tables within the reports) were used.</p>\n<p>In addition, suggestions for the optimization of the questionnaires were developed and implemented over the course of the project.</p>\n<p>In order to ensure a long-term effect of the project, care was taken to enable the Weltladen Umbrella Association&rsquo;s team to carry out the report creation process themselves in the future. To this end, the scripts developed by CorrelAid were discussed in detail and in person with staff from the Weltladen Assocation and their implementation was tested extensively. In addition, the code was meaningfully commented. The project team was also available to answer questions, an offer which the Weltladen Umbrella Association has repeatedly made use of. The implementation on the local machine of the Weltladen staff is now running smoothly.</p>\n<h3>Technical solution approach</h3>\n<p>The data were read in and wrangled with R (data quality control, aggregation, creation of new variables). Descriptive evaluations were carried out for all shops as well as for the individual shops and their respective peer groups. The results were needed for the individualized reports which were generated with Rmarkdown. Tables in the reports were created with the R package kableExtra, the graphics with ggplot2. The whole process can now be started for all participating Weltladen shops and runs automatically.</p>\n<h1>The impact</h1>\n<p>Thanks to the automation approach, the Weltladen Umbrella Association can now create reports more easily, on a more regular basis and with much less effort. The validity of the data has also been improved.</p>\n<p>In addition, the project has given the Weltladen Umbrella Association a better understanding of the general approach to data-driven processes and decision making. For example, the staff now knows that when designing surveys they need to consider the potential impact of design decisions on the quality and analysis of the data. Finally, the Weltladen Assocation was introduced to the tools used and their possibilities.</p>\n<p>On the other side, the CorrelAid volunteers were able to gain a better understanding of the needs and internal workings of NGOs in general and the World Shops in particular. The project also allowed them to learn a lot from each other, both with regards to tools and collaboration.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Automatisierte Reportgenerierung zur Verbesserung der Arbeit der Weltläden",
+          "summary": "Für die jährliche Mitgliederbefragung des Weltladen Dachverbands automatisierte das CorrelAid-Team die Erstellung von über 300 individualisierten Reports, um Zeit zu sparen und Fehler zu reduzieren. Das Projekt umfasste den Einsatz von R und Latex zur Erstellung von Reports und Tabellen sowie die Entwicklung von Vorschlägen zur Fragebogenoptimierung. Der Automatisierungsansatz hat die Validität der Daten und Reports verbessert und dem Verband ein besseres Verständnis für datengetriebene Prozesse vermittelt, während die Volunteers von CorrelAid einen Einblicke in die Bedürfnisse von NPOs erhielten.",
+          "description": "<h1>Die Challenge</h1>\n<p>Der Weltladen Dachverband und das Eine Welt Netzwerk Bayern (im Weiteren nur Weltladen Dachverband) f&uuml;hren jedes Jahr Befragungen ihrer Mitglieder - einzelne Weltl&auml;den - durch, um deren Situation und Bed&uuml;rfnisse besser zu verstehen. Den Mitgliedern soll au&szlig;erdem nutzenbringendes Feedback bzgl. ihrer Stellung im Vergleich zu den andern Weltl&auml;den gegeben werden.</p>\n<p>Der Anspruch der Umfrage ist es, jedem Weltladen, der an der Umfrage teilnimmt, eine individualisierte R&uuml;ckmeldung zu geben. Der entsprechende Report enth&auml;lt verschiedene Grafiken und deskriptive Statistiken, der es den einzelnen Weltl&auml;den erlaubt, ihre Situation im Vergleich zu anderen Weltl&auml;den einzusch&auml;tzen. Die se individuellen Reports wurden vor Projektbeginn h&auml;ndisch mit Excel und Word erstellt. Bei mehreren hundert teilnehmenden Mitgliedern war dies ein sehr zeitaufw&auml;ndiger und fehleranf&auml;lliger Prozess, welcher von den zumeist ehrenamtlichen Mitarbeitern des Weltladen Dachverbands nur schwer gestemmt werden konnte.</p>\n<p>Der Weltladen Dachverband wollte diesen Prozess automatisieren. Dar&uuml;ber hinaus sollten durch statistische Analysen zus&auml;tzliche Zusammenh&auml;nge in der Struktur der Weltl&auml;den aufgedeckt werden.</p>\n<h1>Die Datengrundlage</h1>\n<p>Die Daten basierten auf einer durchgef&uuml;hrten Online-Umfrage unter den Weltl&auml;den. Der Datensatz umfasste dabei eine dreistellige Zahl an teilnehmenden L&auml;den und mehrere dutzende Variablen.</p>\n<p>Die Daten wurden aus dem Online-Umfrage-Tool als .csv-Dateien exportiert und dem CorrelAid Team bereitgestellt. W&auml;hrend des Projekts wurden die Daten ausschlie&szlig;lich auf den Systemen des Dachverbands sowie CorrelAid-Servern gespeichert, sodass ein Zugang durch unberechtigte Dritte ausgeschlossen werden konnte.</p>\n<h1>Der Ansatz</h1>\n<p>CorrelAid konnte dem Team des Weltladen Dachverbands helfen, indem die manuelle und somit fehleranf&auml;llige und sehr zeitaufwendige Erstellung von individualisierten Berichten automatisiert wurde. Hierzu wurden die frei zug&auml;ngliche Statistik-Software R sowie implizit das Textsatzsystem Latex zum Erstellen von Tabellen innerhalb der Berichte verwendet.</p>\n<p>Im Zuge des Projekts wurden au&szlig;erdem Vorschl&auml;ge zur Optimierung der Frageb&ouml;gen entwickelt und umgesetzt.</p>\n<p>Um eine langfristige Wirkung des Projekts sicherzustellen, wurde darauf geachtet, das Team des Dachverbands dazu zu bef&auml;higen, die Analyse zuk&uuml;nftig selbst auszuf&uuml;hren. Die von CorrelAid entwickelten Skripte wurden hierzu ausf&uuml;hrlich und pers&ouml;nlich mit Mitarbeiter:innen des Dachverbands besprochen und deren Durchf&uuml;hrung umfangreich getestet. Au&szlig;erdem wurde der Code sinnvoll kommentiert. F&uuml;r Nachfragen stand das Projektteam au&szlig;erdem zus&auml;tzlich zur Verf&uuml;gung, worauf der Weltladen Dachverband auch wiederholt zur&uuml;ck gegriffen hat. Die Durchf&uuml;hrung auf der lokalen Maschine der Mitarbeiter:innen l&auml;uft mittlerweile reibungslos.</p>\n<h3>Technischer L&ouml;sungsansatz</h3>\n<p>Die Daten wurden mit R eingelesen und aufbereitet (Datenqualit&auml;tskontrolle, Aggregation, Erstellen neuer Variablen). Dabei wurden deskriptive Auswertungen f&uuml;r alle L&auml;den sowie f&uuml;r die individuellen L&auml;den und ihre jeweilige Peergroup durchgef&uuml;hrt. Die Ergebnisse wurden f&uuml;r die individualisierten Berichte ben&ouml;tigt, welche wiederum mit Rmarkdown generiert wurden. Tabellen in den Berichten wurden mit dem R-Paket kableExtra erstellt, die Grafiken mittels ggplot2. Der gesamte Prozess kann nun f&uuml;r alle f&uuml;r alle teilnehmenden Weltl&auml;den angesto&szlig;en werden und l&auml;uft dann automatisch durch.</p>\n<h1>Die Wirkung</h1>\n<p>Dank des Automatisierungsansatzes kann der Weltladen Dachverband die Berichte nun einfacher, dauerhafter und mit sehr viel weniger Aufwand erstellen. Au&szlig;erdem konnte die Validit&auml;t der Daten verbessert werden.</p>\n<p>Der Weltladen Dachverband hat au&szlig;erdem durch das Projekt ein besseres Verst&auml;ndnis f&uuml;r die generelle Herangehensweise bei datengetriebenen Auswertungen bekommen. Dazu geh&ouml;ren Aspekte wie die Erstellung der Umfrage bereits mit Hinblick auf die sp&auml;tere Auswertung der Daten und &Uuml;berlegungen bzlg. der Datenqualit&auml;tsanalyse. Auch die eingesetzen Tools und ihre M&ouml;glichkeiten wurden vermittelt.</p>\n<p>Die CorrelAid-Ehrenamtlichen konnten ihrerseits ein besseres Verst&auml;ndnis f&uuml;r die Bed&uuml;rfnisse/Arbeitsweise von NGOs im Allgemeinen und den Weltl&auml;den im Speziellen gewinnen. Au&szlig;erdem konnten sie im Rahmen des Projekts viel voneinander lernen - sowohl in Bezug auf Tools als auch auf die Vorgehensweise und Art der Zusammenarbeit.</p>"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "project_id": "2019-07-GLE",
+      "status": "published",
+      "date_updated": "2023-06-14T13:44:29.272Z",
+      "start_date": "2019-07-15",
+      "end_date": "2019-11-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "process",
+        "opendata"
+      ],
+      "type": [
+        "visualization"
+      ],
+      "language": [
+        "python",
+        "javascript"
+      ],
+      "Organizations": [
+        {
+          "id": 77,
+          "short_id": "GLE",
+          "legal_form": "stiftung",
+          "sector": "education_research",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "GLEIF",
+              "website": "https://www.gleif.org/en/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "GLEIF",
+              "website": "https://www.gleif.org/en/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/gleif-level2-client",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://correlaid.org/blog/hackathon-gleif/",
+          "output_type": "article",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Blog Post über den Hackathon (in Englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Blog post about the hackathon"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Hackathon with Gleif - Visualizing Relationships between Legal Entities",
+          "summary": null,
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Hackathon mit Gleif - Beziehungen zwischen juristischen Einheiten visualisieren",
+          "summary": null,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "project_id": "2019-10-BEE",
+      "status": "published",
+      "date_updated": "2023-06-06T12:48:25.434Z",
+      "start_date": "2019-10-15",
+      "end_date": null,
+      "project_status": "finished",
+      "team_size": 6,
+      "is_internal": false,
+      "data": [
+        "opendata"
+      ],
+      "type": [
+        "modelling"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 57,
+          "short_id": "BEE",
+          "legal_form": "no_legal_form",
+          "sector": "environment",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Bee Observer BOB",
+              "website": "https://www.buergerschaffenwissen.de/projekt/bee-observer-bob",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Bee Observer BOB",
+              "website": "https://www.buergerschaffenwissen.de/projekt/bee-observer-bob",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://www.youtube.com/watch?v=POqqK7Qj4cU",
+          "output_type": "video",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Technischer Talk bei der CorrelCon 2020 (in Englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Technical talk at CorrelCon 2020"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://www.youtube.com/watch?v=eGZ98pMt4YI",
+          "output_type": "video",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Präsentation des Projekts bei der CorrelCon 2020 (in Englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Presentation of the project at CorrelCon 2020"
+            }
+          ]
+        }
+      ],
+      "Podcast": {
+        "description": "Im Jahr 2021 haben Tiere und die Natur im Kontext des Klimawandels oft Schlagzeilen gemacht. In dieser Folge diskutieren wir, wie Daten Biodiversität fördern können. Dafür haben wir mit Thorsten Kluß und Alex Melemenidis darüber gesprochen, wie das „Bee Observer“ Projekt helfen kann, mehr Einblicke in die Lebensumstände von Insekten zu bekommen. Außerdem tauchen wir zusammen ein in die tägliche Arbeit von Ökologen & „Computational Ecologist“ Cédric Scherer. Also hummelt euch in eine Decke und genießt die Folge.",
+        "soundcloud_link": "https://soundcloud.com/correlaid_podcast/data4good-in-der-okologie",
+        "title": "Data4Good in der Ökologie",
+        "id": 40
+      },
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Using machine learning to detect anomalies in beehives",
+          "summary": "Bees are crucial for the preservation of life on earth in its current form. The CorrelAid team helped the citizen science initiative BeeObserver to take bee observation and research to the next level by making sensor data usable and using machine learning to build an alarm system that alerts beekeepers in case of emergencies. ",
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Mithilfe von Machine Learning Anomalien in Bienenstöcken erkennen",
+          "summary": "Bienen sind entscheidend für die Erhaltung des Lebens auf der Erde in seiner jetzigen Form. Das Team von CorrelAid hat der Citizen-Science-Initiative BeeObserver geholfen, die Bienenbeobachtung und -forschung auf die nächste Stufe zu heben, indem es Sensordaten nutzbar gemacht und maschinelles Lernen verwendet hat, um ein Alarmsystem aufzubauen, das Imker*innen in Notfällen alarmiert. ",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "project_id": "2019-11-WBD",
+      "status": "published_anon",
+      "date_updated": "2023-06-14T09:09:14.941Z",
+      "start_date": "2019-11-15",
+      "end_date": "2020-10-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "visualization"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": -99,
+          "short_id": "ANO",
+          "legal_form": "ev",
+          "sector": "social_services",
+          "translations": []
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": [],
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Building an internal dashboard for the tracking of website access metrics",
+          "summary": null
+        },
+        {
+          "language": "de-DE",
+          "title": "Dashboard für das Tracking von Websitezugriffszahlen",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "project_id": "2019-11-ODA",
+      "status": "published",
+      "date_updated": "2023-06-14T13:54:04.105Z",
+      "start_date": "2019-11-15",
+      "end_date": "2020-06-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "webdev"
+      ],
+      "language": [
+        "javascript"
+      ],
+      "Organizations": [
+        {
+          "id": 95,
+          "short_id": "ODA",
+          "legal_form": "ev",
+          "sector": "environment",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Organisation der Arbeitswelt (OdA) Umwelt",
+              "website": "https://www.umweltprofis.ch/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Organisation der Arbeitswelt (OdA) Umwelt",
+              "website": "https://www.umweltprofis.ch/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://bildung.umweltprofis.ch/",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Web Applikation"
+            },
+            {
+              "language": "en-US",
+              "description": "Web Application"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://www.umweltprofis.ch/assessment",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Assessment auf der Umweltprofis Webseite"
+            },
+            {
+              "language": "en-US",
+              "description": "Assessment on the website of Umweltprofis"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Promoting qualifications in sustainability: searchable database with interactive assessment",
+          "summary": null,
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Weiterbildungen im nachhaltigen Sektor fördern: Durchsuchbare Datenbank und interaktives Assessment",
+          "summary": null,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "project_id": "2020-03-DEN",
+      "status": "published",
+      "date_updated": "2023-05-11T14:33:13.469Z",
+      "start_date": "2020-03-15",
+      "end_date": "2020-07-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "survey",
+        "govdata"
+      ],
+      "type": [
+        "visualization",
+        "data collection"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 68,
+          "short_id": "DEN",
+          "legal_form": "ev",
+          "sector": "arts_culture_sports",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Denk-mal-Kultur e.V.",
+              "website": "https://www.schloss-heinersdorf.info/denk-mal-kultur_e_v_/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Denk-mal-Kultur e.V.",
+              "website": "https://www.schloss-heinersdorf.info/denk-mal-kultur_e_v_/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://www.berliner-zeitung.de/mensch-metropole/ein-herrenhaus-in-der-warteschleife-li.102754",
+          "output_type": "article",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Artikel in der Berliner Zeitung"
+            },
+            {
+              "language": "en-US",
+              "description": "Article in Berliner Zeitung (in German)"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Who is interested in a good life for the elderly in rural areas?",
+          "summary": "Denk-mal-Kultur e.V. wanted to establish an academy for self-determined aging and a practical research center that will address the question of how to manage growing older in rural areas. They contacted CorrelAid to help them survey the local population and stakeholders on their interest in the project. The CorrelAid team designed the survey, collected the data, and prepared a report with actionable insights that can be used for further activities like fundraising and finding potential project partners. The survey results showed a large interest among all surveyed, making it easier for the steering committee to approach potential sponsors and rank activities by interest and potential support of local stakeholders.",
+          "description": "<h1>The challenge</h1>\n<p>Denk-mal-Kultur e.V. primarily cares for the Heinersdorf Manor. Together with partners, Denk-mal-Kultur e.V. would like to establish an <em>academy for self-determined aging</em>. In this context, a practical research center tackling the question: &bdquo;How can one best manage growing older in rural areas?&ldquo; should be established as well. When Denk-Mal-Kultur contacted CorrelAid, they were at the very beginning of scoping the project and asked for support in finding out whether the local population and potential stakeholders (politics, administration, care givers and medical staff) were interested in the endeavour of creating a practical research center. They had a rough survey draft but were seeking help in making it more precise, setting up an online survey, and analyzing the results to get actionable insights for the initiative that could help in further activities, e.g. contacting potential project partners or pursuing fundraising opportunities.</p>\n<h1>The data</h1>\n<p>Data were collected as part of the project with a survey (more details below). In addition to the survey data, the CorrelAid team made use of Open Data available for the region from the Statistical Information System Berlin-Brandenburg (<a href=\"https://www.statistik-berlin-brandenburg.de/regionales/inhalt-regionales.asp\">StatIS-BBB</a>).</p>\n<h1>The solution&nbsp;</h1>\n<p>CorrelAid supported in improving the survey design by designing not only the key questions with regards to the research center but also demographical questions such as gender and education. CorrelAid then implemented the online survey using&nbsp;<a href=\"https://www.sogosurvey.com/\">SoGo</a>. About 140 citizens as well as relevant stakeholders answered the survey.</p>\n<p>Using the demographical data, the CorrelAid team was able to check whether there were differences across different potential users or stakeholders. In addition, the team used those demographics to evaluate the representativeness of the survey data: to do so, the team compared some of the characteristics (e.g. gender and education) to the offical statistics of the region.</p>\n<p>The CorrelAid Team prepared a PDF report with many useful graphs and their interpretations. The analysis identified relevant interest groups, topics, communication channels, and forms of interaction. Among other results, it showed that the practical research center sparks more interest among women.</p>\n<h1>The impact</h1>\n<p>The effects are twofold: First, the survey results indicated that there is a large interest among all that were surveyed, both among the population as well as the relevant stakeholders. This result not only gives all members of the Denk-Mal-Kultur steering committee for the &ldquo;academy&rdquo; and the practical research center a confidence boost but also makes it easier to approach ministries and other potential sponsers in fundraising.</p>\n<p>Second, the survey results make it easier for the steering committee to rank activities by interest and potential support of local stakeholders. In short, it provides a solid, user-oriented foundation for future activities that are aimed at setting up the <em>academy for self-determined aging</em> and the practical research center.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Wer ist interessiert an einem guten Leben im ländlichen Raum?",
+          "summary": "Denk-mal-Kultur e.V. wollte eine Akademie für selbstbestimmtes Altwerden und eine Praxisforschungsstelle aufbauen, die sich mit der Frage beschäftigt, wie das Älterwerden im ländlichen Raum gelingen kann. Der Verein wandte sich an CorrelAid, um die Bevölkerung und die Akteur*innen vor Ort nach ihrem Interesse an dem Projekt zu befragen. Das CorrelAid-Team entwickelte die Umfrage, sammelte die Daten und erstellte einen Bericht mit Erkenntnissen, die für weitere Aktivitäten wie Fundraising und die Suche nach potenziellen Projektpartnern genutzt werden können. Die Ergebnisse der Umfrage zeigten ein großes Interesse bei allen Befragten, was es den Initiator*innen erleichterte, auf potenzielle Sponsoren zuzugehen und die Aktivitäten nach Interesse und potenzieller Unterstützung durch die lokale Bevölkerung zu sortieren.",
+          "description": "<h1>Die Challenge</h1>\n<p>Denk-mal-Kultur e.V. k&uuml;mmert sich in erster Linie um das Herrenhaus Heinersdorf. Gemeinsam mit Partnern m&ouml;chte Denk-mal-Kultur e.V. in dem Herrenhaus eine Akademie f&uuml;r selbstbestimmtes Altwerden auf dem Land einrichten. In diesem Kontxt soll auch eine Praxisforschungsstelle gegr&uuml;ndet werden, die sich der folgenden Frage annimmt: &ldquo;Wie kann man das &Auml;lterwerden in l&auml;ndlichen Gebieten am besten bew&auml;ltigen?&rdquo; Als sie mit CorrelAid Kontakt aufnahmen, standen die Organisator:innen ganz am Anfang des Projekts und ben&ouml;tigten Unterst&uuml;tzung, um herauszufinden, ob die lokale Bev&ouml;lkerung und andere relevante Akteure (Politik, Verwaltung, Pflegepersonal und medizinisches Personal) an der Praxisforschungsstelle interessiert sind. Die Ehrenamtlichen von Denk-Mal-Kultur hatten einen groben Umfrageentwurf vorbereitet, suchten aber Hilfe, um diesen zu pr&auml;zisieren, eine Online-Umfrage durchzuf&uuml;hren und die Ergebnisse zu analysieren. Von den Ergebnissen erhofften sie sich handlungsrelevante Erkenntnisse f&uuml;r die Initiative, die bei weiteren Aktivit&auml;ten helfen k&ouml;nnten, z.B. bei der Kontaktaufnahme mit potenziellen Projektpartnern oder bei der Suche nach Fundraising-M&ouml;glichkeiten.</p>\n<h1>Die Datengrundlage</h1>\n<p>Die Daten wurden im Rahmen des Projekts mit einer Umfrage erhoben (weitere Details siehe unten). Zus&auml;tzlich zu den Umfragedaten nutzte das CorrelAid Team f&uuml;r die Region verf&uuml;gbare offene Daten vom Statistischen Informationssystem Berlin-Brandenburg (<a href=\"https://www.statistik-berlin-brandenburg.de/regionales/inhalt-regionales.asp\">StatIS-BBB</a>).</p>\n<h1>Der Ansatz</h1>\n<p>Das CorrelAid Team hat die Verbesserung des Umfragedesigns unterst&uuml;tzt, indem es nicht nur die wichtigsten themenbezogenen Fragen, sondern auch demographische Fragen wie zur Erfassung des Geschlechts und des Bildungstands entwickelt hat. Nach erfolgreichem Design des Fragebogens in Absprache mit Denk-Mal-Kultur f&uuml;hrte das CorrelAid Team die Online-Umfrage mithilfe von <a href=\"https://www.sogosurvey.com/\">SoGo</a> durch. Etwa 140 B&uuml;rgerinnen und B&uuml;rger sowie relevante Stakeholder beantworteten die Umfrage.</p>\n<p>Mithilfe der demographischen Daten konnte &uuml;berpr&uuml;ft werden, ob es Unterschiede zwischen verschiedenen potenziellen Nutzer:innen und Interessengruppen gibt. Au&szlig;erdem wurde die Repr&auml;sentativit&auml;t der Umfrage evaluiert: Hierzu glich das Team einige der Merkmale (z.B. Geschlecht und Bildung) mit den offiziellen Statistiken der Region ab.</p>\n<p>Das CorrelAid-Team erstellte einen PDF-Bericht mit vielen n&uuml;tzlichen Grafiken und deren Interpretationen. Die Analyse identifizierte relevante Interessengruppen, Themen, Kommunikationskan&auml;le und Interaktionsformen. Sie ergab unter anderem, dass die Praxisforschungsstelle bei Frauen mehr Interesse weckt als bei M&auml;nnern.</p>\n<h1>Die Wirkung</h1>\n<p>Das Projekt hatte zwei Effekte: Zum einen deuteten die Umfrageergebnisse darauf hin, dass generell ein gro&szlig;es Interesse bei allen Befragten besteht, sowohl in der Bev&ouml;lkerung als auch bei den relevanten Stakeholdern. Dieses Ergebnis gibt nicht nur allen Mitgliedern des Denk-Mal-Kultur Teams f&uuml;r die Praxisforschungsstelle einen Motivationsschub, sondern erleichtert auch die Ansprache von Ministerien und anderen potenziellen F&ouml;rderern bei Fundraising-Aktivit&auml;ten.</p>\n<p>Zweitens erleichtern die Umfrageergebnisse dem Denk-Mal-Kultur Team die Priorisierung der Aktivit&auml;ten nach Interesse und m&ouml;glicher Unterst&uuml;tzung durch lokale Interessenvertreter:innen. Kurz gesagt, sie bietet eine solide, nutzerorientierte Grundlage f&uuml;r zuk&uuml;nftige Aktivit&auml;ten, die auf den Aufbau der Akademie f&uuml;r selbstbestimmtes Altwerden und der Praxisforschungsstelle abzielen.</p>"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "project_id": "2020-03-ERL",
+      "status": "published",
+      "date_updated": "2023-05-11T14:33:13.469Z",
+      "start_date": "2020-03-15",
+      "end_date": "2020-08-15",
+      "project_status": "finished",
+      "team_size": 3,
+      "is_internal": false,
+      "data": [
+        "govdata"
+      ],
+      "type": [
+        "visualization",
+        "automation"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 72,
+          "short_id": "ERL",
+          "legal_form": "ev",
+          "sector": "law_advocacy_politics",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Erlassjahr e.V.",
+              "website": "https://erlassjahr.de/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Erlassjahr e.V.",
+              "website": "https://erlassjahr.de/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/erlassjahr",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Interaktives Dashboard auf der Seite von Erlassjahr e.V."
+            },
+            {
+              "language": "en-US",
+              "description": "Interactive Dashboard on the page of Erlassjahr e.V."
+            }
+          ]
+        }
+      ],
+      "Podcast": {
+        "description": "Unsere Show \"About CorrelAid\" dreht sich rund um Projekte, Lokalgruppen, Events und Personen bei CorrelAid.In dieser Folge stellen wir ein weiteres erfolgreiches Data Science Projekt von uns vor, das wir mit dem deutschen Entschuldungsbündnis erlassjahr.de durchgeführt haben. erlassjahr.de setzt sich für einen fairen Umgang mit verschuldeten Staaten und ein internationales Insolvenzverfahren ein.Diesmal hat ein Team von drei Datenanalyst*innen von CorrelAid eine interaktive Weltkarte für erlassjahr.de erstellt, die bei der Organisation und ihren Partnern vielseitige Verwendung findet.Jasmin (@jaesmincl) spricht dazu mit Elise Kopper und Mara Liebal von erlassjahr.de und Antonia, Joni und Dennis Hammerschmidt (@d_hammers) aus dem CorrelAid-Team über den Start, Ablauf und das Ergebnis des Projektes.erlassjahr.de: https://erlassjahr.de/ , twitter: @erlassjahr",
+        "soundcloud_link": "https://soundcloud.com/correlaid_podcast/about-correlaid-eine-interaktive-weltkarte-fur-erlassjahrde",
+        "title": "About CorrelAid - Eine interaktive Weltkarte für erlassjahr.de",
+        "id": 44
+      },
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Making debt reduction advocay more engaging with an interactive dashboard",
+          "summary": "Erlassjahr.de is an NGO that advocates for fair and transparent debt relief processes worldwide. With the aim of simplifying data generation and visualization processes, a CorrelAid team supported erlassjahr.de by developing an interactive world map using leaflet, shiny and R and partially automating processes, e.g. loading open data. The team's support for erlassjahr.de had two main impacts: First, automating the data generation processes freed up time resources for more in-depth research into the causes of debt, and second, the interactive world map complements the static annual report, giving visitors of the website a low-threshold and interactive entry point into the data.",
+          "description": "<h1>The challenge</h1>\n<p>erlassjahr.de advocates for fair and transparent debt relief processes worldwide. Similar to other NGOs, the interaction with interested users beyond their web presence is challenging. Until now, research efforts and results on states&rsquo; debt situation were published in an annual report that featured a static PDF map that visualizes the debt situation worldwide.</p>\n<p>The process of collecting and processing the data as well as the creation of the world map was hard work. All information needed to be gathered from different sources and were copy-pasted into an excel sheet. This excel sheet was the basis for the world map where each state was manually colored based on its debt situation. Naturally, a lot of time and effort went into getting the data and processing it further to illustrate a static map with many small and detailed steps that needed to be done by hand. This time and effort could be saved by automating different steps in the process, specifically by simplifying the entire data generation process and by providing a more intuitive and interactive world map.</p>\n<p>​ CorrelAid supported <a href=\"http://erlassjahr.de/\">erlassjahr.de</a> both in terms of an automated data generation process and the development of an <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interactive web-based world map</a>. The goal was to help the team of erlassjahr to have more time focusing on their research while increasing their public outreach to interested users using an interactive version of their annual report data and world debt map. ​</p>\n<h1>The data</h1>\n<p>The data basis consists of many different, oftentimes manually collected and researched sources. These include, among others, the World Bank, the International Monetary Fond, the CIA World Factbook, the government websites of different countries as well as newspaper articles. All information was carefully researched and collected in an excel sheet. ​</p>\n<p>Based on this data, different debt indicators (e.g., public debt relative to state revenue or foreign debt relative to GDP) were calculated that categorize countries in different debt categories. These categories are the fundamental aspect of the annual debt report and are used to color the static world map. Previously, the erlassjahr team used Adobe Indesign to color each country individually according to their aggregated debt level in a process that consumed a lot of time. ​ The solution To automate erlassjahr&rsquo;s data and visualization processes as well as to implement a user-friendly and interactive way to engage with their annual research results, our solution consists of two major steps: ​</p>\n<ol>\n<li>The (partial) automation of data generation and data processing</li>\n<li>The development and implementation of an <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interactive world map</a> that automatically uses the most recent data available.</li>\n</ol>\n<p>​ We used R to program and implement all steps and processes. The world map is based on leaflet - a java-based open-source library for interactive world maps. We use shiny for the interface of the web application for the world map. ​</p>\n<h3>1. The (partial) automation of data generation and data processing</h3>\n<p>​ The first step to support the data generation and data processing of erlassjahr is to automate as many steps as possible before starting individual research on different cases. For this purpose, we wrote a script that with each new year automatically transfers all information that remains static from the previous report into a new excel sheet. Examples of this static information are, for instance, the geographic region of each state or the link to each state&rsquo;s country profile on erlassjahr.de. Additionally, we automatically load and include all existing information on the states&rsquo; debt situation from the website of the World Bank. As a result, a large part of the required information for a given year is already present at the very start of a new year, and only the information that is missing need to be researched and collected individually.</p>\n<p>It is important to point out that not all data could be collected automatically given that it oftentimes requires intensive research and the use of many different resources to collect all information that is needed for specific cases. Once the excel sheet is filled with this information, however, a second script can be executed that automatically calculates different indicators and categories. That is, it uses the raw data from the excel sheet and categorizes countries based on different thresholds, for instance, into a higher or lower debt category. ​</p>\n<h3>2. The development and implementation of an interactive world map</h3>\n<p>​ Based on this data source, the second step automatically renders an <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interactive world map</a> that includes the most recent information on the debt situation of countries and publishes it on the website of erlassjahr. Even in case that the debt situation changes, the team of erlassjahr can update the data source and re-render the world map to always have the latest changes in the debt situation represented online.</p>\n<p>​ In contrast to the static PDF version of the world, the web-based interactive world map allows users to explore the debt situation of countries more detailed and efficient. For instance, it is now possible to focus only on specific debt indicators as compared to an aggregate of states&rsquo; total debt situation. Moreover, countries can now be filtered for specific geographic regions, income situations or risk factors. Furthermore, hovering over countries on the map displays further information such as the exact amount of debt a country has. Clicking on a country takes the user directly to the dedicated country profile on erlassjahr.de where the user receives even more detailed information on the overall history and situation of a country. Finally, the current map view can be downloaded so that all information and filter can be saved to users&rsquo; personal needs and interests. ​</p>\n<p>The new workflow for erlassjahr is now as follows. Instead of manually extracting all information in an excel sheet and coloring the map by hand using Adobe Indesign, the team only needs to specify the year for their annual report and execute the first script to automatically receive a pre-populated excel sheet with a lot of information readily available when they start working on their new report. Once the missing information is added, they execute a second script that calculates further variables and categorizes countries depending on their debt situation. A final click to execute the last script uses the most recent data available to create and publish the interactive world map on the website of erlassjahr. All steps are carefully described and the organization received both a workshop on how to use their new workflow set up and a detailed guide on how the different steps work. ​</p>\n<h1>The impact</h1>\n<p>Our support for erlassjahr has two main impacts. First, we helped the team to focus their time and efforts on in-depth research on states&rsquo; debt levels by replacing manual copy-paste work with automated data generation processes. Second, we implemented an <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interactive world map</a> that complements the static annual report. As a result, it is now possible for users to interactively explore the results in the annual report by selecting different categories and filtering a variety of parameters. This makes the interactive world map more accessible and perceptible for a larger group of users.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Interaktives Dashboard zur besseren Darstellung von Verschuldungsdaten",
+          "summary": "Erlassjahr.de ist eine NGO, die sich für faire und transparente Entschuldungsprozesse weltweit einsetzt. Mit dem Ziel, die Datengenerierung und -visualisierung zu vereinfachen, unterstützte ein Team von CorrelAid erlassjahr.de bei der Entwicklung einer interaktiven Weltkarte mit Leaflet, Shiny und R sowie bei der teilweisen Automatisierung der Prozesse, z.B. durch das Laden von offenen Daten. Die Unterstützung des Teams für erlassjahr.de hatte vor allem zwei Wirkungen: Zum einen konnte durch die Automatisierung der Datengenerierungsprozesse zeitliche Ressourcen für die tiefergende Recherche der Verschuldungsursachen freigesetzt werden, zum anderen ergänzt die interaktive Weltkarte den statischen Jahresbericht  und gibt Besucher*innen der Webseite einen niedrigschwelligen und interaktiven Einstiegspunkt in die Daten.",
+          "description": "<h1>Die Challenge</h1>\n<p>erlassjahr.de setzt sich f&uuml;r faire und transparente Verfahren beim Schuldenerlass weltweit ein. Wie bei vielen anderen NGOs stellt die Interaktion mit interessierten Nutzer:innen &uuml;ber den eigenen Webauftritt eine Herausforderung dar. Bisher wurden die Rechercheergebnisse zum Schuldenstand der L&auml;nder in einem j&auml;hrlich ver&ouml;ffentlichten Schuldenreport publiziert und nur anhand einer statischen PDF Karte anschaulich dargestellt.</p>\n<p>Die Zusammenstellung der Daten und die Anfertig der Karte waren dabei mit viel Aufwand und manueller Arbeit verbunden. Die Informationen mussten aus diversen Quellen gesammelt und in eine Excel-Tabelle kopiert werden, um dann daraus eine entsprechende Karte manuell einzuf&auml;rben. Diese vielen einzelne, kleinteilige und gr&ouml;&szlig;tenteils per Hand ausgef&uuml;hrten Arbeitsschritte bedeuteten viel Arbeitzeit f&uuml;r das Team von erlassjahr - Arbeitszeit, die man einsparen kann, indem man diverse Schritte in diesem Prozess automatisiert, vereinfacht und das Endergebnis in Form einer Weltkarte interaktiver und erlebbarer gestaltet.</p>\n<p>CorrelAid hat <a href=\"http://erlassjahr.de/\">erlassjahr.de</a> dabei unterst&uuml;tzt, sowohl die Datenbeschaffung als auch die Bereitstellung der Rechercheergebnisse mit einer <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interaktive Weltkarte</a> zu verbessern. Damit erh&ouml;ht sich die Reichweite, intensiviert sich das Nutzererlebnis des Schuldenreports und der Weltkarte und erlaubt es dem Team von erlassjahr mehr Zeit f&uuml;r ihre individuelle Recherarbeit zu verwenden.</p>\n<h1>Die Datengrundlage</h1>\n<p>Als bisherige Datengrundlage f&uuml;r die Erstellung des Schuldenreports dienten eine Vielzahl von unterschiedlichen und oftmals manuell erarbeiteten Quellen. Dazu z&auml;hlen unter anderem die Weltbank, der Internationale W&auml;hrungsfond, CIA World Factbook, die Regierungsseiten der L&auml;nder oder auch Artikel in der (Finanz-)Presse. Alle Informationen werden in einer Excel-Tabelle gesammelt.</p>\n<p>Diese Rohdaten bilden die Berechnungsgrundlage f&uuml;r verschiedene Schuldenindikatoren (z.B. &ouml;ffentliche Schulden relativ zu den Staatseinnahmen oder der Auslandsschuldenstand im Verh&auml;ltnis zum BIP), durch die L&auml;nder in bestimmte Verschuldungskategorien einteilt werden. Diese Kategoriesierung wird im Herzst&uuml;ck des j&auml;hrlichen Schuldenreports anhand einer Weltkarte dargestellt. Bisher wurde hierf&uuml;r jedes einzelne Land in Adobe Indesign entsprechend ihrer Verschuldungskategorie eingef&auml;rbt und konnte somit nur den aggregierten Schuldenstand aus allen Schuldenindikatoren grafisch abbilden.</p>\n<h1>Der Ansatz</h1>\n<p>Um diese Prozesse zu automatisieren und eine nutzerfreundlichere Interaktion mit den Recherchereergebnissen zu erm&ouml;glichen, teilt sich unser L&ouml;sungsansatz in zwei gro&szlig;e Arbeitsschritte auf:</p>\n<ol>\n<li>Die (teilweise) Automatisierung der Datengenerierung und -verarbeitung.</li>\n<li>Die Erstellung einer <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interaktiven Weltkarte</a>, die automatisch auf die aktualisierten Daten zugreift</li>\n</ol>\n<p>Alle Schritte wurden in R programmiert. Das Erscheinungsbild der Weltkarte basiert auf leaflet - einer Java-basierten OpenSource Bibliothek zur Erstellung von interaktiven Karten. Zur Erstellung der Weltkarte und zur Ver&ouml;ffentlichung auf der Homepage der Organisation nutzen wir shiny.</p>\n<h3>1. Automatisierung der Datengenerierung und -verarbeitung</h3>\n<p>Um die Organisation bei der Datengenerierung und -aufbereitung zu unterst&uuml;tzen, haben wir zun&auml;chst sicher gestellt, dass bestimmte, bisher manuell bearbeitete Aufgaben automatisiert werden. Hierzu haben wir ein Skript geschrieben, durch das zu Beginn eines jeden neuen Schuldenreportjahres eine neue Excel-Tabell erstellt wird, die dadurch bereits eine Vielzahl von Informationen beinhaltet. Daf&uuml;r nutzen wir zum einen die Informationen aus dem Schuldenreport im vergangenen Jahr und &uuml;bernehmen direkt alle Informationen, die sich nicht von Jahr zu Jahr &auml;ndern. Hierzu z&auml;hlen z.B. die geografischen Regionen oder auch die Links zu den L&auml;nderprofilen auf der Website von erlassjahr. Dar&uuml;berhinaus werden alle vorhandenen Daten der Weltbank zu verschiedenen Verschuldungskategorieren geladen und direkt in die Excel-Tabelle eingef&uuml;gt. Diese Rohdaten wurden bisher h&auml;ndisch von der Webseite der Weltbank kopiert und in eine Excel-Tabelle eingef&uuml;gt. Durch unsere Automatisierung entf&auml;llt dieser Schritt und muss nur noch bei fehlenden Daten manuell erg&auml;nzt werden.</p>\n<p>Bei der Beschaffung anderer Rohdaten, konnte keine vergleichbare Automatisierung eingearbeitet werden, da die Daten oftmals durch intensive Recherche aus einer Vielzahl von wechselnden Quellen entstehen. Sobald diese jedoch manuell in die Excel-Tabelle eingef&uuml;gt wurden, ist es nun m&ouml;glich mit einem zweiten Skript die Berechnung der Indikatoren und Kategorisierungen zu automatisieren. Hierf&uuml;r haben nutzen wir die Rohdaten der Excel-Tabelle und kreieren automatisch Einstufungen der L&auml;nder in h&ouml;here oder nedrigere Verschuldungskategorien.</p>\n<h3>2. Erstellung einer interaktiven Weltkarte</h3>\n<p>Basierend auf der neu generierten Datengrundlage, haben wir im zweiten Schritt eine <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interaktive Weltkarte</a> mit shiny und leaflet programmiert. Diese Karte greift dabei immer auf die neusten Daten, die erlassjahr vorliegen zu und kann dadurch stetig aktualisiert werden, sollte es Ver&auml;nderungen in der derzeitigen Schuldensituation geben, die in der Karte eingearbeitet werden sollen.</p>\n<p>Der interaktive Charakter der Weltkarte erlaubt es - im Gegensatz zur statischen PDF Version des Schuldenreport - die Verschuldungssituation der L&auml;nder nun differenzierter und detailierter zu betrachten. Es ist nun beispielsweise m&ouml;glich, nicht nur die aggregierte Verschuldungssituation der L&auml;nder zu betrachten. Eine Auswahl und Filterfunktion erlaubt nicht nur die aggregierte Verschuldungssituation pro Land, sondern auch in einzelnen Verschuldungskategorien die Situation der L&auml;nder zu betrachten. Zudem ist es m&ouml;glich, nur L&auml;nder nach bestimmten Region, Einkommensituationen oder Risikofaktoren anzeigen zu lassen. Dar&uuml;ber hinaus zeigt die Maus (der Mauszeiger) beim Ziehen &uuml;ber einzelnen L&auml;nder zus&auml;tzliche Informationen an, biespielsweise die konkreten Zahlen der Verschuldungssituation. Durch einen Klick auf das Land ist es zudem m&ouml;glich, direkt auf das L&auml;nderprofil auf erlassjahr.de weitergeleitet zu werden, um dort einen ganzheitlichen Eindruck &uuml;ber die Verschuldungssituation eines Landes zu erhalten. Die individuelle Kartenauswahl kann zudem direkt als Bild heruntergeladen werden. Dadurch sind die Informationsunterlagen direkt auf die unterschiedliche Vorgaben und Interessenschwerpunkte zugeschnitten.</p>\n<p>Der schlussendliche Arbeitsablauf f&uuml;r die Organisation sieht nun wie folgt aus. Anstatt h&auml;ndisch alle Informationen in eine Excel-Tabelle zu &uuml;bertragen und mit Adobe Indesin eine Karte einzuf&auml;rben, wird nun in einem Hauptskript das aktuelle Jahr des Schuldenreports bestimmt. Anschlie&szlig;end wird durch zwei Klicks die Excel-Tabelle mit allen vorhandenen Informationen aus dem vorherigen Schuldenreport und der Weltbank automatisch erstellt.</p>\n<p>Sobald diese Tabelle manuell erg&auml;nzt wurde, gen&uuml;gt ein weiterer Klick im Hauptskript um die verschiedenen Indikatoren und Kategorisierungen automatisch zu berechnen. Sobald alle Daten vollst&auml;ndig sind, kann durch einen letzten Klick die Karte aktualisiert werden. Jeder Arbeitsschritt wird im Skript durch eine ausf&uuml;hrliche und deutliche Anleitung begleitet und wurde durch eine Einf&uuml;hrung praktisch erl&auml;utert.</p>\n<h1>Die Wirkung</h1>\n<p>Durch unsere Arbeit haben wir erlassjahr in zwei zentralen Punkten unterst&uuml;tzt. Zum einen haben wir der Organisation dabei geholfen ihre Arbeitsprozesse zu automatisieren und zu optimieren um weniger Zeit auf copy-paste und mehr auf tiefgreifende Recherche zu verwenden. Zum anderen haben wir durch die <a href=\"https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/\">interaktive Karte</a> eine Erg&auml;nzung zum statischen Jahresbericht in PDF und Print-Form erm&ouml;glicht, durch den Nutzer nun tiefer in die Materie eintauchen k&ouml;nnen. Es ist nun m&ouml;glich, die Vielzahl an Parametern und Kategorien die im Jahresbericht beschrieben werden individuell zu erkunden und interaktiv erleben. Somit sind die Karte und die Rechercheergebnisse zug&auml;nglicher und erlebbarer f&uuml;r eine gr&ouml;&szlig;ere Gruppe an interessierten Nutzer:innen geworden.</p>"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "project_id": "2020-05-EYP",
+      "status": "published",
+      "date_updated": "2023-05-11T14:33:13.469Z",
+      "start_date": "2020-05-15",
+      "end_date": "2020-10-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "survey",
+        "process"
+      ],
+      "type": [
+        "exploratory"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 74,
+          "short_id": "EYP",
+          "legal_form": "stiftung",
+          "sector": "education_research",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "European Youth Parliament",
+              "website": "https://eyp.org/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "European Youth Parliament",
+              "website": "https://eyp.org/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Illustrative analysis of surveys on participant structure and the impact of events",
+          "summary": "The CorrelAid project team helped the European Youth Parliament (EYP) to evaluate their events by presenting a more detailed picture of who participates and highlighting the effects of EYP events on the participants' attitudes and skills. The team used R to analyze and visualize three surveys conducted at five international events. The results were summarized in a report which contained the visualizations and analyses as well as recommendations for improving data collection and survey design in the future. The EYP team learned that their events were generally positively evaluated by participants.",
+          "description": "<h1>The challenge</h1>\n<p>The aim of the project was to present the data from the surveys to give the European Youth Parliament an more detailed picture of who participates in their event and to highlight the effect of the EYP events on the attitudes and skills of the participants. In addition, the work with the data was to be used to make a recommendation on how the European Youth Parliament could carry out independent analyses in the future and what improvements it could seek in the design and implementation of the survey.</p>\n<h1>The data</h1>\n<p>Basis for this project was a broad and systematic attempt by the EYP to evaluate their events. The EYP conducted three surveys at five of their international events in different cities in Europe. These were a preliminary survey before, a survey immediately after and a survey three months after the event. The &ldquo;Active Volunteers&rdquo;, i.e. volunteers from the EYP itself who also participate in the event, were interviewed twice, during the event and also three months after the event. The number of respondents varied between approximately 20 and 130, depending on the city and type of survey. The number of questions also varied between 26 and over 150, depending on the city and type of survey.</p>\n<h1>The solution</h1>\n<p>The CorrelAid project team helped the EYP team gaining new insights into the structure and background of the participants in the EYP events. The aim was to show the development of different items, such as attitudes of participants, before and after the event. This was achieved by estimating the mean values and presenting them in diagrams. This made a direct comparison possible, which should give the organisation an idea of the impact of the event on the participants&rsquo; evaluation of the items. Note that causal interpretations are not warranted given to the data structure. The surveys were evaluated with R.</p>\n<h1>The impact</h1>\n<p>The results of the data analysis were summarised in a report that was handed over to the EYP in a joint video conference. The used methods were explained, results were discussed and additional factors of interest were added afterwards. The report contains suggestions for improvement of the data collection and survey in order to achieve results that are more reliable in the future. The team recommended to make the surveys more consistent, e.g. by using the same set of questions across the events, to make sure that results are comparable and to make future anlyses easier. The EYP has learned from the analysis that the events carried out were generally very positively evaluated by the participants. A difference in the pre- and post-event means was observed for some items of interest.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Anschauliche Aufbereitung von Umfragen zur Teilnehmerstruktur und dem Impact von Veranstaltungen",
+          "summary": "Das CorrelAid-Projektteam half dem Europäischen Jugendparlament (EYP) bei der Evaluation seiner Veranstaltungen, indem es ein detaillierteres Bild der Teilnehmer*innen zeichnete und die Auswirkungen der EYP-Veranstaltungen auf die Einstellungen und Fähigkeiten der Teilnehmer hervorhob. Das Team nutzte R, um drei Umfragen, die bei fünf internationalen Veranstaltungen durchgeführt wurden, zu analysieren und zu visualisieren. Die Ergebnisse wurden in einem Bericht zusammengefasst, der die Visualisierungen und Analysen sowie Empfehlungen zur zukünftigen Verbesserung der Datenerfassung und des Umfragedesigns enthielt. Das EYP-Team erfuhr, dass seine Veranstaltungen von den Teilnehmern im Allgemeinen positiv bewertet wurden.",
+          "description": "<h1>Die Challenge</h1>\n<p>Ziel des Projekts war es, die Daten aus den Umfragen aufzubereiten, um dem European Youth Parliament ein detaillierteres Bild davon zu geben, wer an dessen Veranstaltungen teilnimmt, und um die Wirkung der EYP-Veranstaltungen auf die Einstellungen und Fähigkeiten der Teilnehmer aufzuzeigen. Darüber hinaus sollte die Arbeit mit den Daten dazu dienen, eine Empfehlung abzugeben, wie das European Youth Parliament in Zukunft eigenständige Analysen durchführen und welche Verbesserungen es bei der Gestaltung und Umsetzung der Umfragen vornehmen könnte.</p>\n<h1>Die Datengrundlage</h1>\n<p>Grundlage für dieses Projekt war ein umfangreicher und systematischer Ansatz des EYP, seine Veranstaltungen zu evaluieren. Das EYP hatte bei fünf seiner internationalen Veranstaltungen in verschiedenen Städten in Europa jeweils drei Umfragen durchgeführt. Dabei handelte es sich um eine Vorbefragung vor, eine Befragung unmittelbar nach und eine Befragung drei Monate nach der Veranstaltung.\nDie “Active Volunteers”, d.h. die Freiwilligen des EYP selbst, die auch an der Veranstaltung teilnehmen, wurden zweimal befragt - während der Veranstaltung und ebenfalls drei Monate nach der Veranstaltung.\nDie Anzahl der Befragten variierte zwischen ungefähr 20 und 130, je nach Stadt und Art der Befragung. Auch die Anzahl der Fragen variierte zwischen 26 und über 150, je nach Stadt und Art der Umfrage.</p>\n<h1>Der Ansatz</h1>\n<p>Das CorrelAid-Projektteam half dem EYP-Team, neue Erkenntnisse über die Zusammensetzung und den Hintergrund der Teilnehmer an den EYP-Veranstaltungen zu gewinnen.\nZiel war es, die Veränderung verschiedener Items, wie z.B. der Einstellungen der Teilnehmer vor und nach der Veranstaltung, aufzuzeigen. Dazu wurden Mittelwerte berechnet und in Diagrammen dargestellt. Dadurch wurde ein direkter Vergleich möglich, der der Organisation eine Eindruck von dem Einfluss der Veranstaltung auf die Bewertung der Items durch die Teilnehmer vermitteln sollte. Zu beachten ist, dass kausale Interpretationen aufgrund der Datenstruktur nicht möglich waren.\nDie Umfragen wurden mit R ausgewertet.</p>\n<h1>Die Wirkung</h1>\n<p>Die Ergebnisse der Datenanalyse wurden in einem Bericht zusammengefasst, der in einer gemeinsamen Videokonferenz an das European Youth Parliament übergeben wurde. Dabei wurden die verwendeten Methoden erläutert, die Ergebnisse diskutiert und anschließend zusätzliche Punkte von Interesse hinzugefügt.\nDer Bericht umfasst Verbesserungsvorschläge für die Datenerhebung und die Umfrage, um in Zukunft noch verlässlichere Ergebnisse zu erzielen. Das Team empfahl, die Umfragen konsistenter zu gestalten, z.B. durch die Verwendung derselben Fragen bei allen Veranstaltungen, um die Vergleichbarkeit der Ergebnisse sicherzustellen und zukünftige Auswertungen zu erleichtern.\nDas EYP hat aus der Analyse gelernt, dass die durchgeführten Veranstaltungen im Allgemeinen sehr positiv von den Teilnehmern bewertet wurden. Für einige untersuchte Punkte wurde ein Unterschied zwischen den Mittelwerten vor und nach der Veranstaltung festgestellt.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "project_id": "2020-11-MAR",
+      "status": "published",
+      "date_updated": "2023-05-11T14:33:13.469Z",
+      "start_date": "2020-11-15",
+      "end_date": "2021-02-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "visualization"
+      ],
+      "language": [
+        "rstats",
+        "python"
+      ],
+      "Organizations": [
+        {
+          "id": 87,
+          "short_id": "MAR",
+          "legal_form": "ev",
+          "sector": "social_services",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Mare Liberum",
+              "website": "https://mare-liberum.org",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Mare Liberum",
+              "website": "https://mare-liberum.org",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://mare-liberum.org/de/pushback-report-2020/",
+          "output_type": "report",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Pushback Report"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://youtu.be/JJoEJGc1eNc?t=222",
+          "output_type": "video",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Präsentation bei der CorrelCon 2021 (englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Presentation at CorrelCon 2021"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://mare-liberum.org/en/pushback-report-2020/",
+          "output_type": "report",
+          "translations": [
+            {
+              "language": "en-US",
+              "description": "Pushback Report"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Data visualizations to bring attention to illegal pushbacks",
+          "summary": "Mare Liberum collaborated with CorrelAid to enhance the data quality of their pushback cases database, consisting of over 300 documented incidents, and produce visualizations for advocacy, PR, and reporting purposes. The CorrelAid team cleaned the dataset, added new variables, and used R for further analysis, ensuring sustainability for future data work. The Data4Good project resulted in a more convincing and coherent presentation of the issue, increasing visibility and attention, and providing deeper and more reliable insights into the practice of illegal pushbacks in the Mediterranean Sea.",
+          "description": "<h1>The challenge</h1>\n<p>Mare Liberum started to build a database of documented cases of pushbacks in March 2020. Their main goal is to communicate and visually present the findings of their work for advocacy, PR and reporting. Prior to their collaboration with CorrelAid, however, the data was sparsely used.</p>\n<h1>The data</h1>\n<p>The data consisted of an Excel sheet with just over 300 documented cases of pushbacks (rows) and 15 variables with further information. The variables provide information such as the location and date of the incident, the number of people involved and other information about the sources.&nbsp;</p>\n<h1 class=\"ca-blue-text\">The solution</h1>\n<p align=\"justify\">The CorrelAid team cleaned the data set, extracted additional variables and produced various data visualisations for the annual report of Mare Liberum. The initial cleaning of the data was done in Python, but the subsequent analysis was done in R, as some prior knowledge of the programming language was already held by the organisation, ensuring sustainability of the data product. Lastly, the team developed an approach on how Mare Liberum may collect and store data in the future to increase data quality.</p>\n<h1 class=\"ca-blue-text\">The impact</h1>\n<p align=\"justify\">The Data4Good project empowered Mare Liberum to use existing valuable data and leverage it for advocacy, PR and reporting in a coherent and convincing manner. The created visualizations for the annual pushback report contribute to increasing the visibility and attention of the issue. Through the enhancing of data quality, the organization will be able to generate deeper and more reliable insights on the practice of illegal pushbacks in the Mediterranian sea. Due to the use of exisiting knowledge inside the organization, the Data4Good project is not only impactful but also sustainable.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Datenvisualisierungen für mehr Aufmerksamkeit für illegale Pushbacks",
+          "summary": "Mare Liberum kooperierte mit CorrelAid, um die Qualität ihrer Datenbank mit über 300 dokumentierten Pushback-Fällen zu verbessern und Visualisierungen für Advocacy-, PR- und Berichtszwecke zu erstellen. Das Team von CorrelAid bereinigte den Datensatz, fügte neue Variablen hinzu und nutzte R für weitere Analysen, um die Nachhaltigkeit für zukünftige Datenarbeit zu gewährleisten. Das Data4Good-Projekt führte zu einer überzeugenderen und kohärenteren Darstellung des Themas, erhöhte die Sichtbarkeit und Aufmerksamkeit und lieferte tiefere und zuverlässigere Einblicke in die Praxis der illegalen Pushbacks im Mittelmeer.",
+          "description": "<h1>Die Challenge</h1>\n<p>Mare Liberum hat im März 2020 begonnen, eine Datenbank mit dokumentierten Fällen von Pushbacks aufzubauen. Ihr Hauptziel ist es, die Ergebnisse ihrer Arbeit für Advocacy, PR und Berichterstattung zu kommunizieren und visuell darzustellen. Vor ihrer Zusammenarbeit mit CorrelAid wurden die Daten jedoch nur selten genutzt.</p>\n<h1>Die Datengrundlage</h1>\n<p>Die Daten bestanden aus einer Excel-Tabelle mit knapp über 300 dokumentierten Fällen von Pushbacks (Zeilen) und 15 Variablen (Spalten) mit verschiedenen Informationen. Die Variablen liefern Informationen wie Ort und Datum des Vorfalls, die Anzahl der beteiligten Personen und weitere Informationen zu den Quellen.</p>\n<h1>Der Ansatz</h1>\n<p>Das CorrelAid-Team bereinigte den Datensatz, extrahierte zusätzliche Variablen und erstellte verschiedene Datenvisualisierungen für den Jahresbericht von Mare Liberum. Die initiale Bereinigung der Daten erfolgte in Python, die anschließende Analyse wurde jedoch in R durchgeführt, da die Organisation bereits über einige Vorkenntnisse in der Programmiersprache verfügte, was die Nachhaltigkeit des Datenprodukts sicherstellt. Schließlich entwickelte das Team einen Ansatz, wie Mare Liberum in Zukunft Daten sammeln und speichern kann, um die Datenqualität langfristig  zu erhöhen.</p>\n<h1>Die Wirkung</h1>\n<p>Das Data4Good-Projekt befähigte Mare Liberum, die vorhandenen wertvollen Daten  für Advocacy, PR und Berichterstattung auf kohärente und überzeugende Weise zu nutzen. Die erstellten Visualisierungen für den jährlichen Pushback-Bericht tragen dazu bei, die Sichtbarkeit und Aufmerksamkeit für das Thema zu erhöhen. Durch die Verbesserung der Datenqualität wird die Organisation in der Zukunft in der Lage sein, tiefergehende und verlässlichere Einblicke in die Praxis der illegalen Pushbacks im Mittelmeer zu generieren. Durch die Nutzung von vorhandenem Wissen zur Datenanalyse mit R innerhalb der Organisation wirkt das Data4Good-Projekt nicht nur kurzfristig, sondern auch nachhaltig.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "project_id": "2021-02-CFE",
+      "status": "published",
+      "date_updated": "2023-05-17T10:17:21.976Z",
+      "start_date": "2021-02-15",
+      "end_date": "2021-04-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "survey"
+      ],
+      "type": [
+        "visualization"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 62,
+          "short_id": "CFE",
+          "legal_form": "gug",
+          "sector": "law_advocacy_politics",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Citizens for Europe",
+              "website": "https://citizensforeurope.org",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Citizens for Europe",
+              "website": "https://citizensforeurope.org",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": {
+        "description": "Wie kann man mit datengetriebenem Arbeiten Diversität und Vielfalt in unserer Gesellschaft fördern? Dazu stellt euch Jasmin ein Beispielprojekt von Citizens For Europe und CorrelAid e.V. vor. Zu Gast ist Lisa Reiber, Data Scientist bei Citizens For Europe. Das ist eine Non-Profit Organisation die sich für Vielfalt, Demokratie und Solidarität in der Gesellschaft einsetzt. Lisa arbeitet mit ihren Kollegen*innen an datengetriebenen Projekten rund um die Bekämpfung Intersektionaler Diskriminierung und Rassismus.Außerdem zu Gast: Long Nguyen, Doktorand in Soziologie an der Universität Bielefeld und Project Manager im besprochenen Projekt.Beide engagieren sich auch ehrenamtlich bei CorrelAid, einem Netzwerk von Daten Analysten*innen. Unter anderem hilft dieses sozialen Organisationen, ihren Impact auf die Gesellschaft zu erhöhen, indem sie pro-bono (Data4Good)-Projekte durchführen.",
+        "soundcloud_link": "https://soundcloud.com/correlaid_podcast/data4good-fur-mehr-vielfalt-und-diversitat",
+        "title": "Data4Good für mehr Vielfalt und Diversität",
+        "id": 41
+      },
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Exploring diversity - Visualizing the Afrozensus Germany in R",
+          "summary": "The Afrozensus is the largest survey among people of African descent in Germany.  THe CorrelAid team developed an easy-to-use R package containing various ggplot2 visualization functions specifically for Afrozensus survey results, which allowed for interactive data exploration and visualization by researchers with less technical skills. The package has been successful in facilitating  over 200 automated reports on individual variables in the Afrozensus.",
+          "description": "<h1>The challenge</h1>\n<p>CFE&rsquo;s division Advocacy for Inclusion focuses on changing structures, processes and policies to combat discrimination and foster diversity and inclusion. In order to achieve this, the Black and POC researchers have developed an intersectional survey tool that captures the entire spectrum of the German Equal Treatment Act (Allg. Gleichbehandlungsgesetz). It aims to collect detailed data on diversity and discrimination in private and public organizations as well as in specific societal sectors.</p>\n<p>Together with <a href=\"https://www.eoto-archiv.de/\">EOTO e.V.</a>, one of Germany&rsquo;s leading Black empowerment organizations, the researchers have expanded this tool to be used with Germany&rsquo;s Black population through the&nbsp;<strong><a href=\"https://afrozensus.de\">Afrozensus</a></strong> &ndash; CFE&rsquo;s largest project to date. The aim of the Afrozensus is to obtain as comprehensive a picture as possible of the experiences of people of African descent in Germany, how they assess their lives in Germany and what they expect from politics and society. The findings of the survey were to be made available to relevant communities and policy makers.</p>\n<p>In order to analyze and visualise the Afrozensus data, CorrelAid supported a workflow creation in R that allows users to analyze different data sets and question types in various forms. As many employees in the organization were not trained in using programming approaches, usability was important. Hence, the goal of the project was to develop an easy-to-use, well documented <strong>R package</strong> that would facilitate the individual analysis steps. By doing so, the organization hoped to speed up and standardize data exploration while allowing the analysis to be reproducible and documented.</p>\n<p>*Package = set of pre-defined functionalities in specified coding languages</p>\n<h1>The data</h1>\n<p>CorrelAid volunteers worked with a <strong>synthetic dataset</strong> that mirrored the actual Afrozensus data with its over 6000 responses and 700 columns. By their nature, the variables represented different types of survey questions: single-choice, multiple-choice, matrix, numeric, and open-ended response questions covering topics such the eight dimensions of the German Equal Treatment Act, experiences of discrimination in different areas of life, volunteering and activism.</p>\n<h1>The solution</h1>\n<p>The CorrelAid team has successfully developed an R package containing various ggplot2 visualization functions tailored specifically for Afrozensus survey results. With the package, researchers only have to specify a minimal set of input parameters, e.g. which question to analyze. The package will then create pre-defined visualiaztions, automatically adapting the type of visualization to the type of the question, e.g. a histogram for numeric questions or a bar chart for single-choice questions. Visualizations can be created individually or in bulk in an automated fashion. The visualizations take into account the style of the Afrozensus final report and, therefore, can also be used for the final report.</p>\n<p>For the report, the CorrelAid team created an initial examplary R Markdown exploiting the package functions to build the visualizations automatically for multiple survey variables, preparing all the necessary material for the data exploration. The created R package was tested by the team manually as well as with automated unit tests.</p>\n<p>The package was handed over in a meeting where the CorrelAid team supported the Afrozensus researchers with information on how to use the package and its functionality.</p>\n<h1>The impact</h1>\n<p>The package allows the researchers to focus on what matters most &ndash; searching for insights and patterns in the extensive survey responses and identifying those aspects that make life in Germany more challenging and how these aspects interact with each other by looking at and comparing various visualizations.</p>\n<p>The solution provided by the CorrelAid team requires minimal technical knowledge, yet allows for customization as needed. Thanks to this focus on usability and ease of use, interactive data exploration and visualization is now also possible for researchers with less technical skills. And researchers with a more technical oriented skillset can now iterate even faster during data exploration.</p>\n<p>Besides enabling interactive data exploration, the package has also facilitated more automated approaches. Over 200 reports on individual variables in the Afrozensus have been automatically generated using the package.</p>\n<p>Thanks to the data science team at Citizens for Europe, the package will continue be actively maintained and developed in the future &ndash; beyond the scope of the Afrozensus project.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Diversität erforschen - Visualisierung der Afrozensus Umfrage in R",
+          "summary": "Der Afrozensus ist die größte Umfrage unter Menschen afrikanischer Abstammung in Deutschland.  Das CorrelAid-Team entwickelte ein einfach zu bedienendes R-Paket mit verschiedenen ggplot2-Visualisierungsfunktionen speziell für Afrozensus-Umfrageergebnisse, die eine interaktive Datenexploration und -visualisierung durch Forscher*innen mit weniger technischen Kenntnissen ermöglichten. Das Paket hat sich bei der Automatisierung von über 200 Berichten zu einzelnen Afrozensus-Variablen bewährt.",
+          "description": "<h1>Die Challenge</h1>\n<p>Die Abteilung Vielfalt Entscheidet von CFE konzentriert sich auf die Ver&auml;nderung von Strukturen, Prozessen und Policies zur Bek&auml;mpfung von Diskriminierung und zur F&ouml;rderung von Vielfalt und Inklusion. Um dies zu erreichen, haben die Schwarzen und POC-Wissenschaftler:innen ein intersektionales Erhebungsinstrument entwickelt, das das gesamte Spektrum des deutschen Gleichbehandlungsgesetzes abbildet. Es zielt darauf ab, detaillierte Daten zu Vielfalt und Diskriminierung in privaten und &ouml;ffentlichen Organisationen sowie in gesellschaftlichen Bereichen zu erheben.</p>\n<p>Gemeinsam mit <a href=\"https://www.eoto-archiv.de/\">EOTO e.V.</a>, einer der f&uuml;hrenden Black Empowerment Organisationen in Deutschland, haben die Forscher*innen das Instrument erweitert, um es mit der Schwarzen Bev&ouml;lkerung Deutschlands im Rahmen des <strong><a href=\"https://afrozensus.de\">Afrozensus</a></strong> - dem bisher gr&ouml;&szlig;ten Projekt von CFE - anzuwenden. Ziel des Afrozensus ist es, ein m&ouml;glichst umfassendes Bild davon zu erhalten, welche Erfahrungen Menschen afrikanischer Abstammung in Deutschland machen, wie sie ihr Leben in Deutschland bewerten und was sie von Politik und Gesellschaft erwarten. Die Ergebnisse der Befragung sollen den relevanten Communities und politischen Entscheidungstr&auml;ger:innen zur Verf&uuml;gung gestellt werden.</p>\n<p>Um die Daten des Afrozensus zu analysieren und zu visualisieren, unterst&uuml;tzte CorrelAid die Erstellung eines Workflows in der statistischen Programmiersprache R, der es den Nutzer:innen erm&ouml;glicht, Datens&auml;tze und Fragetypen des Afrobarometers auf unterschiedliche Art und Weise zu analysieren. Da viele Mitarbeiter:innen der Organisation noch nicht in der Anwendung von R geschult waren, war die Benutzerfreundlichkeit besonders wichtig. Ziel des Projekts war es daher, ein einfach zu bedienendes, gut dokumentiertes <strong>R-Paket</strong> zu entwickeln, das die einzelnen Analyseschritte erleichtert. Auf diese Weise soll die Datenexploration beschleunigt und standardisiert werden, w&auml;hrend gleichzeitig Analysen reproduzierbar und dokumentiert werden.</p>\n<p>*Paket = Sammlung vordefinierter Funktionen in R</p>\n<h1>Die Datengrundlage</h1>\n<p>Die CorrelAid-Volunteers arbeiteten mit einem <strong>synthetischen Datensatz</strong>, der die tats&auml;chlichen Afrozensus-Daten mit ihren &uuml;ber 6000 Antworten und 700 Spalten widerspiegelte. Die Variablen repr&auml;sentierten verschiedene Arten von Umfragefragen: Single-Choice-, Multiple-Choice-, Matrix-, numerische und offene Antwortfragen, die Themen wie die acht Dimensionen des deutschen Gleichbehandlungsgesetzes, Diskriminierungserfahrungen in verschiedenen Lebensbereichen, ehrenamtliches Engagement und Aktivismus abdecken.</p>\n<h1>Der Ansatz</h1>\n<p>Das CorrelAid-Team hat ein R-Paket entwickelt, das verschiedene ggplot2-Visualisierungsfunktionen enth&auml;lt, die speziell auf die Afrozensus-Daten zugeschnitten sind. Mit dem Paket m&uuml;ssen Forscher:innen nur einige wenige Eingabeparameter angeben, z.B. welche Frage analysiert werden soll. Das Paket erstellt dann vordefinierte Visualisierungen, wobei die Art der Visualisierung automatisch an die Art der Frage angepasst wird, z.B. ein Histogramm f&uuml;r numerische Fragen oder ein Balkendiagramm f&uuml;r Single-Choice-Fragen. Die Visualisierungen k&ouml;nnen einzeln oder mehrere auf einmal automatisiert erstellt werden. Die Visualisierungen ber&uuml;cksichtigen das Design des Afrozensus-Abschlussberichts und k&ouml;nnen daher auch f&uuml;r den diesen verwendet werden.</p>\n<p>F&uuml;r den Bericht hat das CorrelAid-Team ein erstes beispielhaftes R Markdown erstellt, das die Funktionen des Pakets ausnutzt, um die Visualisierungen automatisch f&uuml;r mehrere Umfragevariablen zu erstellen und das gesamte notwendige Material f&uuml;r die Datenexploration vorzubereiten. Das erstellte R-Paket wurde vom Team sowohl manuell als auch mit automatisierten Unit-Tests getestet.</p>\n<p>Die &Uuml;bergabe des Pakets erfolgte in einem Meeting, bei dem das CorrelAid-Team die Afrozensus-Wissenschaftler:innen mit Informationen zur Nutzung des Pakets und seiner Funktionalit&auml;t unterst&uuml;tzte.</p>\n<p>F&uuml;r den Bericht erstellte das CorrelAid-Team einen ersten beispielhaften R Markdown, der die Funktionen des Pakets ausnutzt, um die Visualisierungen automatisch f&uuml;r mehrere Umfragevariablen zu erstellen und das gesamte notwendige Material f&uuml;r die Datenexploration vorzubereiten. Das erstellte R-Paket wurde vom Team manuell getestet und enth&auml;lt auch automatisierte Unit-Tests.</p>\n<p>Die &Uuml;bergabe des Pakets erfolgte in einem Handover Workshop, bei dem das CorrelAid-Team die Afrozensus-Wissenschaftler:innen in die Nutzung des Pakets und seiner Funktionalit&auml;ten einf&uuml;hrte.</p>\n<h1>Die Wirkung</h1>\n<p>Das Package erm&ouml;glicht es den Wissenschaftler:innen, sich auf das Wesentliche zu konzentrieren - die Suche nach Erkenntnissen und Mustern in den Daten sowie die Identifizierung derjenigen Aspekte, die das Leben in Deutschland f&uuml;r Menschen afrikanischer Herkunft herausfordernder machen, und wie diese Aspekte miteinander interagieren. Diese Suche wird durch Datenvisualisierungen vereinfacht.</p>\n<p>Die vom CorrelAid-Team zur Verf&uuml;gung gestellte L&ouml;sung erfordert nur minimale technische Kenntnisse, erlaubt aber dennoch Anpassungen der Visualisierungen nach Bedarf. Dank dieses Fokus auf Benutzerfreundlichkeit ist die interaktive Datenexploration und -visualisierung nun auch f&uuml;r Wissenschaftler:innen mit geringeren technischen Kenntnissen m&ouml;glich. Und Wissenschaftler:innen mit einem eher technisch orientierten Skillset k&ouml;nnen die Datenexploration noch schneller iterieren.</p>\n<p>Neben der M&ouml;glichkeit der interaktiven Datenexploration hat das Paket auch mehr automatisierte Ans&auml;tze erm&ouml;glicht. &Uuml;ber 200 Berichte zu einzelnen Variablen im Afrozensus wurden mithilfe des Pakets automatisch erstellt.</p>\n<p>Dank des internen Data-Science-Teams von Citizens for Europe wird das Paket auch in Zukunft aktiv gepflegt und weiterentwickelt - &uuml;ber den zeitlichen Rahmen des CorrelAid-Projekts hinaus.</p>"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "project_id": "2021-03-HAC",
+      "status": "published",
+      "date_updated": "2023-05-11T14:33:13.469Z",
+      "start_date": "2021-03-15",
+      "end_date": "2021-07-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "survey"
+      ],
+      "type": [
+        "visualization"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 79,
+          "short_id": "HAC",
+          "legal_form": null,
+          "sector": "social_services",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Hacklab Foundation",
+              "website": "https://hacklabfoundation.org/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Hacklab Foundation",
+              "website": "https://hacklabfoundation.org/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/hacklab-foundation",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://hacklabfoundation.org/Developer-Census-2020-Report.html",
+          "output_type": "report",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Interaktiver Bericht"
+            },
+            {
+              "language": "en-US",
+              "description": "Interactive Report"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://github.com/Hacklab-Foundation/Developer-Census-2020",
+          "output_type": "data",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Datensatz"
+            },
+            {
+              "language": "en-US",
+              "description": "Dataset"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://youtu.be/JJoEJGc1eNc?t=421",
+          "output_type": "video",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Kurze Präsentation des Projekts beim Project Showcase der CorrelCon 2021 (Video, englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Short Presentation of the Project in the Project Showcase at CorrelCon 2021 (Video)"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "An Interactive Survey Report for the Hacklab Foundation, Ghana",
+          "summary": "The Hacklab Foundation partnered with CorrelAid to gain insights on Ghana’s developer community using the data from their developer survey. The CorrelAid team analyzed and visualized the data in order to  make them understandable to those unfamiliar with data science techniques. The report revealed interesting insights about the Ghanaian developer community and will be used to improve the Hacklab Foundation’s work and support developers in the future. The final report was shared as a public webpage and introduced to the public in an online event, allowing for anyone to explore the results by themselves.",
+          "description": "<h1>The challenge</h1>\n<p>The main goal of the project was to generate insights concerning Ghana&rsquo;s developer community to gain a better understanding of the developer&rsquo;s backgrounds, skills, and characteristics. However, generating, summarizing and communicating the insights is not a job the foundation had experience with. It needed help with these data-intensive and data-visualization aspects.</p>\n<p>CorrelAid&rsquo;s contribution consisted of data exploration as well as data analysis to find interesting insights. Additionally, the results were visualized in an attractive and comprehensible way to enable result communication with collaboration partners unfamiliar with technical questions and the broader community.</p>\n<h1>The data</h1>\n<p>The survey data consisted of 272 observations on 41 questions. Some questions were answered using multiple-choice format, others allowed for short statements.</p>\n<p>Data was stored locally by the Hacklab Foundation and provided to us via GitHub in the .xlsx format. Prior to our contributions, the data had not been analyzed or used.</p>\n<h1>The solution</h1>\n<p>CorrelAid helped the Hacklab Foundation with data exploration, analysis, and insight generation. Furthermore, the CorrelAid volunteers designed the <a href=\"https://hacklabfoundation.org/Developer-Census-2020-Report.html\">report</a> and the visualizations. The main technologies included R and RMarkdown for data analysis and visualization, as well as CSS and HTML for report design and generation. The final design reflects the corporate design of the Hacklab Foundation. The project started out with data cleaning, which was followed by data exploration and insight generation. Finally, the insights were summarized in a report including various kinds of data visualizations. The final report is destined as being shared as a public webpage, explorable by anyone.</p>\n<h1>The impact</h1>\n<p>The data revealed a variety of useful insights about the Ghanaian developer community. For example, only 17% of the whole sample indicated being women. However, there was a greater share of women among the students, which provides a chance for an increasing representation in the developer community. Furthermore, there were interesting results concerning the most used technologies and the working conditions.</p>\n<p>These results will be used to improve the Hacklab Foundation&rsquo;s work in order to support professional developers as well as youth aiming at becoming developers. The report provides an illustrative platform that can be shared with collaboration partners, such as organizations and other developer communities. They will work together to move the Ghanaian developer community towards an even more diverse, educated and connected nature. Additionally, the interactive web report improves communication and visibility of the Hacklab Foundation.</p>\n<p>The analyses and the code were shared with the Hacklab Foundation so that the report is reproducible. The code can additionally be used to generate reports for future surveys the Hacklab Foundations is planning to conduct in the upcoming years.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Erstellung eines interaktiven Survey-Reports für die Hacklab Foundation, Ghana",
+          "summary": "Die Hacklab Foundation kontaktierte CorrelAid, um Einblicke in die ghanaische Entwickler*innen-Community aus den Daten ihres Developer Surveys zu gewinnen. Das CorrelAid-Team analysierte und visualisierte die Daten, um sie für diejenigen verständlich zu machen, die mit datenwissenschaftlichen Techniken nicht vertraut sind. Der Report zeigte interessante Erkenntnisse über die ghanaische Developer Community und wird dazu dienen, die Arbeit der Hacklab Foundation zu verbessern und Entwickler*innen in Zukunft besser zu unterstützen. Der Abschlussbericht wurde auf einer öffentlichen Webseite veröffentlicht und in einer Veranstaltung der Öffentlichkeit vorgestellt, so dass jede*r die Ergebnisse selbst erkunden kann.",
+          "description": "<h1>Die Challenge</h1>\n<p>Das Hauptziel des Projekts bestand darin, Erkenntnisse &uuml;ber die ghanaische Entwickler:innengemeinschaft zu gewinnen, um ein besseres Verst&auml;ndnis der Hintergr&uuml;nde, F&auml;higkeiten und Eigenschaften der Entwickler:innen zu erhalten. Die Analyse, sinnvolle Zusammenfassung und Kommunikation der Daten war jedoch eine Aufgabe, mit der die Hacklab Foundation nicht ausreichend Erfahrung hatte. Die Ehrenamtlichen ben&ouml;tigten Unterst&uuml;tzung bei diesem Aspekt des Projekts.</p>\n<p>Der Beitrag von CorrelAid bestand aus der Exploration der Daten sowie ihrer Analyse, mit dem Ziel, interessante Erkenntnisse zu finden. Dar&uuml;ber hinaus wurden die Ergebnisse auf attraktive und verst&auml;ndliche Weise visualisiert, um die Kommunikation der Ergebnisse mit Kooperationspartner:innen der Hacklab Foundation, die mit technischen Fragen nicht vertraut sind, und der breiteren &Ouml;ffentlichkeit zu erm&ouml;glichen.</p>\n<h1>Die Datengrundlage</h1>\n<p>Die Umfragedaten umfassten 272 Beobachtungen zu 41 Fragen. Einige Fragen wurden im Multiple-Choice-Format beantwortet, andere erlaubten kurze, offene Aussagen.</p>\n<p>Die anonymisierten Daten wurden lokal von der Hacklab Foundation gespeichert und uns &uuml;ber GitHub im .xlsx-Format zur Verf&uuml;gung gestellt. Vor unserem Projekt waren die Daten noch nicht analysiert oder verwendet worden.</p>\n<h1>Der Ansatz</h1>\n<p>CorrelAid unterst&uuml;tzte die Hacklab Foundation bei der Datenerhebung, -analyse und der Gewinnung von Erkenntnissen. Au&szlig;erdem erstellten die CorrelAid-Freiwilligen den <a href=\"https://hacklabfoundation.org/Developer-Census-2020-Report.html\">Bericht</a> und die interaktiven Visualisierungen. Die wichtigsten Technologien waren R und RMarkdown f&uuml;r die Datenanalyse und -visualisierung sowie CSS und HTML f&uuml;r das Design und die Erstellung des Berichts. Das endg&uuml;ltige Design spiegelt das Corporate Design der Hacklab Foundation wider.</p>\n<p>Das Projekt begann mit der Datenbereinigung, gefolgt von der Datenexploration und der Generierung von Erkenntnissen. Abschlie&szlig;end wurden die Erkenntnisse in einem Bericht zusammengefasst, der verschiedene Arten von Datenvisualisierungen enth&auml;lt. Der endg&uuml;ltige Bericht &ouml;ffentlich verf&uuml;gbar und kann von jedermann erkundet werden.</p>\n<h1>Die Wirkung</h1>\n<p>Die Daten lieferten eine Reihe n&uuml;tzlicher Erkenntnisse &uuml;ber die ghanaische Entwickler:innengemeinschaft. So gaben beispielsweise nur 17 % der gesamten Stichprobe an, Frauen zu sein. Allerdings war der Anteil der Frauen unter den Studierenden h&ouml;her, sodass sich die Repr&auml;sentation von Frauen in der ghanaischen Entwickler:innengemeinschaft in der Zukunft positiv entwickeln sollte. Dar&uuml;ber hinaus gab es interessante Ergebnisse zu den am h&auml;ufigsten verwendeten Technologien und den Arbeitsbedingungen.</p>\n<p>Diese Ergebnisse werden zur Verbesserung der Arbeit der Hacklab Foundation genutzt, um professionelle Entwickler:innen sowie junge Menschen, die Entwickler:innen werden wollen, zu unterst&uuml;tzen. Der anschauliche Bericht kann mit Kooperationspartnern wie Organisationen und anderen Entwickler:innengemeinschaftengeteilt werden. So f&ouml;rdert der Bericht die Zusammenarbeit von verschiedenen Communities, die sich f&uuml;r Vielfalt, Ausbildung und Vernetzung in der ghanaischen Entwickler:innengemeinschaft einsetzen. Dar&uuml;ber hinaus verbessert der interaktive HTML-Bericht die Kommunikation und Sichtbarkeit der Hacklab Foundation.</p>\n<p>Die Analysen und der Code wurden mit der Hacklab Foundation geteilt, so dass der Bericht reproduzierbar ist. Der Code kann au&szlig;erdem verwendet werden, um Berichte f&uuml;r zuk&uuml;nftige Umfragen zu erstellen, die die Hacklab Foundation in den kommenden Jahren durchf&uuml;hren will.</p>"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "project_id": "2021-04-KOB",
+      "status": "published",
+      "date_updated": "2023-06-14T09:56:56.036Z",
+      "start_date": "2021-04-15",
+      "end_date": "2022-02-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": true,
+      "data": {},
+      "type": [
+        "opensource"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://correlaid.github.io/kbtbr/",
+          "output_type": "code_documentation",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Dokumentation des Packages"
+            },
+            {
+              "language": "en-US",
+              "description": "Documentation of the package"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/kbtbr",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "An R wrapper for the KoboToolbox API",
+          "summary": "KoBoToolbox is an open-source suite of tools for data collection, management, and analysis. It provides a platform for creating customized forms or surveys, collecting data offline using mobile devices, and analyzing the collected data. The primary goal of KoBoToolbox is to enable field data collection in areas with limited or no internet connectivity. This is why KoboToolbox is widely used by researchers, humanitarian organizations, and researchers, humanitarian organizations, and development practitioners.\n\nThe CorrelAid team developed an R package that gives KoboToolbox users programmatic access to the KoboToolbox API, giving them a tool to automate processes and improve data workflows. ",
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "R Wrapper für die KoboToolbox API",
+          "summary": "KoBoToolbox ist ein Open-Source Tool für die Datenerhebung, -verwaltung und -analyse. KoboToolbox bietet eine Plattform für die Erstellung von Formulare und Umfragen, die Offline-Erfassung von Daten mit mobilen Geräten und die Analyse der erfassten Daten. Das Hauptziel von KoboToolbox ist es, die Datenerhebung vor Ort in Gebieten mit eingeschränkter oder fehlender Internetanbindung zu ermöglichen. Daher wird KoboToolbox v.a. auch von Forscher*innen und humanitären Organisationen genutzt.\n\nDas CorrelAid Team entwickelte ein R Package, das den Nutzer*innen von KoboToolbox den programmatischen Zugriff auf die KoboToolbox API ermöglicht und ihnen so ein Werkzeug an die Hand gibt, um Prozesse zu automatisieren und Daten-Workflows zu verbessern. ",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "project_id": "2021-10-CAR",
+      "status": "published",
+      "date_updated": "2023-06-07T13:24:38.762Z",
+      "start_date": "2021-10-15",
+      "end_date": "2022-05-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "survey",
+        "process"
+      ],
+      "type": [
+        "exploratory"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 61,
+          "short_id": "CAR",
+          "legal_form": "ev",
+          "sector": "social_services",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "German Caritas Association, division living conditions and solidarity",
+              "website": "https://www.caritas.de/diecaritas/deutschercaritasverband/verbandszentrale/arbeitsbereiche/soziale-lebenslagen-und-solidaritaet/referat",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Deutscher Caritasverband e.V., Referat Soziale Lebenslagen und Solidarität",
+              "website": "https://www.caritas.de/diecaritas/deutschercaritasverband/verbandszentrale/arbeitsbereiche/soziale-lebenslagen-und-solidaritaet/referat",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://www.caritas.de/neue-caritas/heftarchiv/jahrgang2022/artikel/alleinerziehend-und-arbeitslos",
+          "output_type": "article",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Online Version des Artikels in \"neue caritas\""
+            },
+            {
+              "language": "en-US",
+              "description": "Online version of the article in \"neue caritas\" (German)"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/caritas-project",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Single parent and unemployed: an analysis of data of the general social counseling of Caritas",
+          "summary": "In collaboration with the German welfare association Caritas, the CorrelAid team analysed data collected through their annual survey of clients of the “Allgemeine Sozialberatung” (general social counselling). The service provides counselling for problems ranging from debt, unemployment, over inter-familiar problems to social services. The team conducted an explorative data analysis in R, including 37,000 questionnaires from 2010 to 2021, and pointed out several trends and core problems: For example, single mothers face a significantly higher risk of experiencing long-term unemployment than other social groups. This effect is especially pronounced for those single mothers with lower levels of education. The analysis results were published in the journal “Neue Caritas” and provide data-based evidence for Caritas’ core demands vis-à-vis the German government, advocating for better support for vulnerable groups.",
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Alleinerziehend und arbeitslos: Analyse von Daten der Allgemeinen Sozialberatung der Caritas",
+          "summary": "In Zusammenarbeit mit dem deutschen Caritasverband  hat das CorrelAid Team die Daten der jährlichen Stichtagsbefragung der Klient*innen der Allgemeinen Sozialberatung analysiert. Die Beratung beraet zu diversen Themen: von Schulden, Arbeitslosigkeit, über familieninterne Probleme bis hin zu sozialen Leistungen. Das Team führte eine explorative Datenanalyse in R durch, die 37.000 Fragebögen aus den Jahren 2010 bis 2021 umfasste, und zeigte so mehrere Trends und Kernprobleme auf: So haben alleinerziehende Mütter ein deutlich höheres Risiko, langzeitarbeitslos zu werden als andere soziale Gruppen. Besonders ausgeprägt ist dieser Effekt bei alleinerziehenden Müttern mit niedrigerem Bildungsniveau. Die Analyseergebnisse wurden in der Zeitschrift \"Neue Caritas\" veröffentlicht und liefern datenbasierte Belege für die Kernforderungen der Caritas gegenüber der Bundesregierung, die sich für eine bessere Unterstützung sozial schwacher Gruppen einsetzt.",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "project_id": "2022-04-LAU",
+      "status": "published",
+      "date_updated": "2023-05-17T13:01:03.388Z",
+      "start_date": "2022-04-15",
+      "end_date": "2022-11-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "visualization",
+        "webdev"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 83,
+          "short_id": "LAU",
+          "legal_form": "stiftung",
+          "sector": "arts_culture_sports",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Laureus Sport For Good Germany",
+              "website": "https://laureus.de",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Laureus Sport For Good Germany",
+              "website": "https://laureus.de",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://laureus.shinyapps.io/Safeinsport-selfaudit/",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Interaktive App"
+            },
+            {
+              "language": "en-US",
+              "description": "Interactive App"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://www.laureus.de/international-safeguards-for-children-in-sport-laureus-sport-for-good-setzt-sich-aktiv-dafuer-ein-dass-der-sport-ein-sicherer-ort-fuer-jedes-kind-wird/",
+          "output_type": "article",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Blog Post zum Launch der App"
+            },
+            {
+              "language": "en-US",
+              "description": "Blog post about the launch (in German)"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Development of an interactive questionnaire for the improvement of child protection measures in sports",
+          "summary": "Laureus Sport for Good and CorrelAid have developed a test to determine the level of child protection in (e.g. sports) organizations, which previously only existed in static PDF form. As part of this project, the test was published as a Web App, which presents the respective results for each organization in a visually tangible way, provides matching recommendations for child protection measures, and allows Laureus to store and evaluate the data. The app is available in four languages (German, English, Spanish, French).",
+          "description": "<h1>The challenge</h1>\n<p>There are significant deficiencies, lack of knowledge and much lack of will to introduce and implement effective concepts with regard to child protection measures in the sports sector in Germany and Austria, but also internationally. Laureus Sport for Good is a signatory and part of the Safe in Sport initiative, which advocates for stronger protection concepts in sport worldwide, offers guidelines and recommendations and supports the development of protection concepts.</p>\n<p>A previously existing self-test in the form of a PDF document, in which points had to be added up manually and the results searched for, was not user friendly and as a result was little used to review and further develop child protection measures.</p>\n<p>In addition, because the PDF was completed and scored manually by organizations offline, there was no way to target support to the organization based on the results. Finally, due to a lack of data, it was not possible to conduct analyses that could, for example, show differences between organizational forms or countries.</p>\n<p>However, these findings are important on two levels: first, for the organization itself, to get a simple and quick assessment of the strength of its existing processes and concepts, and to get direct recommendations for improvement. On the other hand, for Laureus to develop offers to further support the organizations in the field and to further bring the topic of prevention of (sexual) violence/child protection to the public and to point out the gaps.</p>\n<h1>The data</h1>\n<p>The data to be collected in the test in PDF form is a self-report by an organization on various child protection issues in that organization. These questions are divided into eight question blocks, each covering eight different areas of protective measures. The partial aspects of the protective measures queried per question are to be answered in each case with &ldquo;not yet fulfilled&rdquo;, &ldquo;partially fulfilled&rdquo; or &ldquo;fulfilled&rdquo;. Prior to the start of the CorrelAid project, the answers were neither systematically stored nor further analyzed, as there was no way to access the participants&rsquo; answers, especially not in anonymized form. In addition, there was no coordinated (and anonymized) way to provide feedback to organizations in the form of recommendations on individual protection measures after they had completed the questionnaire.</p>\n<p>The now interactive web app, in addition to simplifying the use of the test and providing automated recommendations based on responses, also allows for the (anonymous) collection of data. This involves anonymously storing data on the type of organization, the size of the organization, and the age of the participants in a Google spreadsheet, as well as the coded responses to the individual self-assessment questions.</p>\n<p>The completing organization receives a downloadable PDF of their responses. By downloading, the organization agrees that the generated data will be stored at Laureus. It is also possible to use the tool online without downloading/forwarding the data.</p>\n<p>The generated data provides an overview of how far organizations are in their development of child protection measures and in which areas there is a need for improvement. From this, Laureus Sport for Good can, on the one hand, derive which offers the foundation needs to develop in order to further support organizations in the area and, on the other hand, further publicize the topic of prevention of (sexual) violence/child protection and identify the gaps.</p>\n<h1>The solution</h1>\n<p>Laureus and the CorrelAid project team jointly developed the concept of an interactive and reactive <a href=\"https://laureus.shinyapps.io/Safeinsport-selfaudit/\">Web App</a> to replace the old PDF questionnaire and provide additional functionalities. Based on the existing <a href=\"https://correlaid.shinyapps.io/datamaturitymodel/\">Data-Maturity Evaluation Tool Elmo</a> developed by CorrelAid, the project team then developed a concept of a Web App with these functionalities with ongoing content input from Laureus and wrote it mainly using the R Shiny Package in the R programming language.</p>\n<p>The web app, like the PDF questionnaire before it, captures responses to child protection issues in organizations, bundled into eight protection measures and each with three response categories of &ldquo;not yet met,&rdquo; &ldquo;partially met,&rdquo; and &ldquo;met.&rdquo; These three response categories are listed at the beginning of the questionnaire in a legend with a traffic light system, which allows a fluid and intuitive response to the questions. The way the legend is visually represented also contributes to the accessibility of the questionnaire, as the individual answer categories in the legend are also recognizable for people with, for example, red-green impairment. Thanks to the implementation in the web app, the results of individual answers can now be viewed constantly in parallel while answering, including continuously updated result statistics of the protective measure areas, such as mean values and medians, as well as a continuously updating reactive result graphic.</p>\n<p>Going beyond the questions previously available, the Laureus web app now offers the ability to ask general questions about organizational data for inclusion in potential analyses. By using general wording and avoiding free-text fields, the anonymity of respondents is always preserved. In addition, the web app does not store any technical data such as the IP address or browser configuration of the respondents at any time, so that conclusions about their identity are also ruled out in this way.</p>\n<p>In contrast to the old questionnaire concept, two things now happen immediately when an online questionnaire is completed in the web app: On the one hand, respondents receive immediate feedback in the form of a downloadable PDF that provides recommendations on individual protective measures based on the answers they have just given. On the other hand, responses on organizational data and safeguards are automatically saved in parallel in a private Google Sheets file accessible only to Laureus. Potential GDPR-related problems regarding the storage of personality-related data by means of a Google service with server locations outside the EU do not exist, as no personality-related data of the respondents was collected in the first place. The biggest advantage of this web app designed by CorrelAid for Laureus compared to the previous offline questionnaire is therefore that all answers are stored in digital form and are available for further evaluation and analysis without much effort.</p>\n<h1>The impact</h1>\n<p>The&nbsp;<a href=\"https://laureus.shinyapps.io/Safeinsport-selfaudit/\">interactive Web App</a> offers users the improvement over the static PDF document of receiving the results directly evaluated and visually appealing. For users, this means low-threshold access and significant time savings. The ease of use also increases the reach of the test. From Laureus&rsquo; point of view, the possibility to centrally evaluate the test results is advantageous. It is not yet possible to estimate the gain in knowledge, as the app first has to be used for some time to generate the required data.</p>\n<p>To facilitate Laureus&rsquo; sustainable code-side usability of the app, the code was commented and certain critical aspects (renv package, local setup of the app, deployment on shinyapps.io) were explained in the GitHub ReadMe. In addition, the code was explained in detail in an explanation video.</p>"
+        },
+        {
+          "language": "de-DE",
+          "title": "Entwicklung eines interaktiven Fragebogens zur Verbesserung von Kinderschutzmaßnahmen im Sport",
+          "summary": "Laureus Sport for Good und CorrelAid haben einen Test zur Feststellung des Niveaus des Kinderschutzes in (z. B. Sport-) Organisationen entwickelt, den es bislang lediglich in statischer PDF-Form gab. Im Rahmen dieses Projekts wurde der Test als Web App veröffentlicht, die die jeweiligen Ergebnisse für jede Organisation visuell schnell greifbar aufbereitet, dazu passende Empfehlungen für Kinderschutzmaßnahmen liefert und es Laureus erlaubt, die Daten zu speichern und auszuwerten. Die App ist in vier Sprachen (Deutsch, Englisch, Spanisch, Französisch) verfügbar.",
+          "description": "<h1>Die Challenge</h1>\n<p>Es gibt in Bezug auf Kinderschutzmaßnahmen im Sport-Sektor in Deutschland und Österreich, aber auch international, erhebliche Mängel, viel fehlendes Wissen und viel fehlenden Willen, um wirksame Konzepte einzuführen und umzusetzen. Laureus Sport for Good ist Unterzeichnerin und Teil der Initiative Safe in Sport, die sich für stärkere Schutzkonzepte im Sport weltweit einsetzt, Leitfäden und Empfehlungen anbietet und bei der Erarbeitung von Schutzkonzepten unterstützt.</p>\n<p>Ein bisher bestehender Selbsttest in Form eines PDF-Dokuments, in dem manuell Punkte zusammengezählt und nach den Ergebnissen gesucht werden musste, war nicht nutzer*innen-freundlich und wurde als Folge wenig zur Überprüfung und Weiterentwicklung von Kinderschutz-Maßnahmen verwendet.</p>\n<p>Da das PDF manuell von den Organisationen offline ausgefüllt und ausgewertet wurde, gab es keinerlei Möglichkeit, basierend auf den Ergebnissen, die Organisation gezielt zu unterstützen. Außerdem war es auf Grund mangelnder Daten nicht möglich, Analysen durchzuführen, die zum Beispiel Unterschiede zwischen Organisationsformen oder Ländern aufzeigen konnten.</p>\n<p>Diese Erkenntnisse sind aber auf zweierlei Ebene wichtig: Zum einen für die Organisation selbst, um eine einfache und schnelle Einschätzung der Stärke ihrer bestehenden Prozesse und Konzepte zu erhalten und direkt Empfehlungen für die Verbesserung zu erhalten. Zum anderen für Laureus, um Angebote zu entwickeln, um die Organisationen in dem Bereich weiter zu unterstützen, und das Thema Prävention von (sexueller) Gewalt/Kinderschutz weiter in die Öffentlichkeit tragen und die Lücken aufzuzeigen.</p>\n<h1>Die Datengrundlage</h1>\n<p>Bei den zu erfassenden Daten des Tests in PDF-Form handelt es sich um eine Selbstauskunft einer Organisation zu verschiedenen Fragen des Kinderschutzes in dieser Organisation. Diese Fragen sind in acht Frageblöcke zu jeweils acht verschiedenen Bereichen an Schutzmaßnahmen aufgeteilt. Die pro Frage abgefragten Teilaspekte der Schutzmaßnahmen sind jeweils mit “noch nicht erfüllt”, “teilweise erfüllt” oder “erfüllt” zu beantworten. Vor Beginn des CorrelAid-Projektes wurden die Antworten weder systematisch gespeichert noch weitergehend analysiert, da es keine Möglichkeit gab, auf die Antworten der Teilnehmenden zuzugreifen, vor allem nicht in anonymisierter Form. Darüber hinaus bestand kein koordinierter (und anonymisierter) Weg, den Organisationen nach Ausfüllen des Fragebogens Feedback in Form von Empfehlungen zu den einzelnen Schutzmaßnahmen zukommen zu lassen.</p>\n<p>Die nun interaktive Web-App erlaubt neben der vereinfachten Nutzung des Tests und den automatisierten, auf die Antworten abgestimmten Empfehlungen auch das (anonyme) Erheben der Daten. Dabei werden Daten zur Organisationsform, zur Größe der Organisation und zum Alter der Teilnehmenden anonym in einer Google-Tabelle gespeichert sowie die codierten Antworten auf die Einzelfragen der Selbsteinschätzung.\nDie ausfüllende Organisation erhält eine PDF ihrer Antworten zum Herunterladen. Mit dem Herunterladen stimmt die Organisation zu, dass die generierten Daten bei Laureus gespeichert werden. Eine Nutzung des Tools ist auch ohne das Herunterladen/die Weiterleitung der Daten online möglich.</p>\n<p>Die generierten Daten geben einen Überblick darüber, wie weit Organisationen in ihrer Entwicklung von Kinderschutz-Maßnahmen sind und in welchen Bereichen Verbesserungsbedarf besteht. Daraus kann Laureus Sport for Good einerseits ableiten, welche Angebote die Stiftung entwickeln muss, um Organisationen in dem Bereich weiter zu unterstützen, und andererseits das Thema Prävention von (sexueller) Gewalt/Kinderschutz weiter in die Öffentlichkeit tragen und die Lücken aufzeigen.</p>\n<h1>Der Ansatz</h1>\n<p>Laureus und das Projekt-Team von CorrelAid haben gemeinsam das Konzept einer interaktiven und reaktiven <a href=\"https://laureus.shinyapps.io/Safeinsport-selfaudit/\">Web App</a> entwickelt, die den alten PDF-Fragebogen ersetzen und darüber hinausgehende Funktionalitäten aufweisen sollte. Basierend auf dem bestehenden <a href=\"https://correlaid.shinyapps.io/datamaturitymodel/\">Data-Maturity Evaluationstools Elmo</a> von CorrelAid, wurde daraufhin mit laufendem inhaltlichen Input von Seiten von Laureus im Projekt-Team ein Konzept einer Web App mit diesen Funktionalitäten entwickelt und dieses hauptsächlich mithilfe des R Shiny Packages in der Programmiersprache R geschrieben.</p>\n<p>Die Web App erfasst, wie schon der PDF-Fragebogen zuvor, Antworten zu Fragen des Kinderschutzes in Organisationen, gebündelt in acht Schutzmaßnahmen und mit jeweils drei Antwortkategorien “noch nicht erfüllt”, “teilweise erfüllt” und “erfüllt”. Diese drei Antwortkategorien sind zu Beginn des Fragebogens in einer Legende mit Ampelsystem aufgeführt, welches eine flüssige und intuitive Beantwortung der Fragen ermöglicht. Die Art der visuellen Repräsentation der Legende trägt zudem zur Barrierefreiheit des Fragebogens bei, da die einzelnen Antwortkategorien in der Legende auch für Personen mit beispielsweise Rot-Grün-Schwäche erkennbar sind. Die Ergebnisse einzelner Antworten sind dank der Implementierung in der Web App nun konstant während des Antwortens parallel einsehbar, mitsamt laufend aktualisierten Ergebnisstatistiken der Schutzmaßnahmenbereiche, wie Mittelwerten und Medianen sowie einer sich laufend aktualisierenden reaktiven Ergebnisgrafik.</p>\n<p>Über die zuvor bereits vorhandenen Fragen hinausgehend bietet die Web App Laureus nun die Möglichkeit, allgemeine Fragen zu Organisationsdaten zu stellen, um diese in potenzielle Analysen einfließen lassen zu können. Durch allgemeine Formulierungen und die Vermeidung von Freitext-Feldern bleibt die Anonymität der Befragten immer gewahrt. Zudem speichert die Web App zu keinem Zeitpunkt technische Daten wie die IP-Adresse oder die Browser-Konfiguration der Befragten, sodass auch über diesen Weg Rückschlüsse auf ihre Identität ausgeschlossen sind.</p>\n<p>Im Kontrast zum alten Fragebogen-Konzept geschehen bei Abschluss eines Online-Fragebogens in der Web App nun umgehend zweierlei Dinge: Einerseits bekommen die Befragten unmittelbares Feedback in Form eines herunterladbaren PDF, das basierend auf den gerade zuvor gegebenen Antworten Empfehlungen zu den einzelnen Schutzmaßnahmen bereitstellt. Andererseits werden die Antworten zu Organisationsdaten und Schutzmaßnahmen parallel automatisch in einer privaten nur Laureus zugänglichen Google Sheets Datei abgespeichert. Potenzielle DSGVO-bezogene Probleme bezüglich der Speicherung persönlichkeitsbezogener Daten mittels eines Google-Dienstes mit Server-Standorten außerhalb der EU sind nicht gegeben, da von vornherein keine persönlichkeitsbezogenen Daten der Befragten erfasst wurden. Der größte Vorteil dieser von CorrelAid für Laureus konzipierten Web App im Vergleich zum vorigen analogen Fragebogen liegt somit darin, dass sämtliche Antworten in digitaler Form gespeichert werden und ohne großen Aufwand für weitergehende Auswertungen und Analysen bereitstehen.</p>\n<h1>Die Wirkung</h1>\n<p>Die <a href=\"https://laureus.shinyapps.io/Safeinsport-selfaudit/\">interaktive Web App</a> bietet den Nutzer*innen die Verbesserung gegenüber dem statischen PDF-Dokument, die Ergebnisse direkt ausgewertet und visuell ansprechend zu erhalten. Für Nutzer*innen bedeutet dies einen niederschwelligen Zugang und signifikante Zeiteinsparungen. Durch die einfache Bedienbarkeit steigt auch die Reichweite des Tests. Aus Sicht von Laureus ist die Möglichkeit zur zentralen Auswertung der Testergebnisse vorteilhaft. Ein Erkenntnisgewinn ist aktuell noch nicht einschätzbar, da die App die benötigten Daten erst generiert.</p>\n<p>Um Laureus die nachhaltige codeseitige Nutzbarkeit der App zu erleichtern, wurde der Code kommentiert und bestimmte kritische Aspekte (renv-Package, lokales Aufsetzen der App, Deployment auf shinyapps.io) in der GitHub ReadMe erklärt. Darüber hinaus wurde der Code in einem Erklärvideo detailliert erläutert.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "project_id": "2022-07-SQE",
+      "status": "published_anon",
+      "date_updated": "2023-06-14T09:09:30.023Z",
+      "start_date": "2022-07-15",
+      "end_date": null,
+      "project_status": "unclear",
+      "team_size": 3,
+      "is_internal": false,
+      "data": [
+        "opendata"
+      ],
+      "type": [
+        "opensource",
+        "modelling"
+      ],
+      "language": [
+        "python"
+      ],
+      "Organizations": [
+        {
+          "id": -99,
+          "short_id": "ANO",
+          "legal_form": null,
+          "sector": "development_housing",
+          "translations": []
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": [],
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Building an Soil Quality Evaluation System using Machine Learning and Computer Vision",
+          "summary": null
+        },
+        {
+          "language": "de-DE",
+          "title": "Building an Soil Quality Evaluation System using Machine Learning and Computer Vision",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "project_id": "2022-10-ETL",
+      "status": "published_anon",
+      "date_updated": "2023-06-13T11:53:51.460Z",
+      "start_date": "2022-10-15",
+      "end_date": "2023-03-23",
+      "project_status": "finished",
+      "team_size": 6,
+      "is_internal": false,
+      "data": [
+        "survey",
+        "process"
+      ],
+      "type": [
+        "automation",
+        "data management"
+      ],
+      "language": [
+        "python"
+      ],
+      "Organizations": [
+        {
+          "id": -99,
+          "short_id": "ANO",
+          "legal_form": "gug",
+          "sector": "law_advocacy_politics",
+          "translations": []
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": [],
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Building an ETL pipeline from Limesurvey to a database",
+          "summary": null
+        },
+        {
+          "language": "de-DE",
+          "title": "ETL Pipeline von Limesurvey zu einer Datenbank",
+          "summary": null
+        }
+      ]
+    }
+  ]
+}
