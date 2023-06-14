@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_published": 1686736837969,
-    "last_updated": 1686736616036,
-    "n": 18
+    "last_published": 1686750945226,
+    "last_updated": 1686750844105,
+    "n": 20
   },
   "projects": [
     {
@@ -347,6 +347,98 @@
       ]
     },
     {
+      "id": 96,
+      "project_id": "2019-07-GLE",
+      "status": "published",
+      "date_updated": "2023-06-14T13:44:29.272Z",
+      "start_date": "2019-07-15",
+      "end_date": "2019-11-15",
+      "project_status": "finished",
+      "team_size": 4,
+      "is_internal": false,
+      "data": [
+        "process",
+        "opendata"
+      ],
+      "type": [
+        "visualization"
+      ],
+      "language": [
+        "python",
+        "javascript"
+      ],
+      "Organizations": [
+        {
+          "id": 77,
+          "short_id": "GLE",
+          "legal_form": "stiftung",
+          "sector": "education_research",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "GLEIF",
+              "website": "https://www.gleif.org/en/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "GLEIF",
+              "website": "https://www.gleif.org/en/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/gleif-level2-client",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://correlaid.org/blog/hackathon-gleif/",
+          "output_type": "article",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Blog Post über den Hackathon (in Englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Blog post about the hackathon"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Hackathon with Gleif - Visualizing Relationships between Legal Entities",
+          "summary": null,
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Hackathon mit Gleif - Beziehungen zwischen juristischen Einheiten visualisieren",
+          "summary": null,
+          "description": ""
+        }
+      ]
+    },
+    {
       "id": 99,
       "project_id": "2019-10-BEE",
       "status": "published",
@@ -482,6 +574,96 @@
           "language": "de-DE",
           "title": "Dashboard für das Tracking von Websitezugriffszahlen",
           "summary": null
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "project_id": "2019-11-ODA",
+      "status": "published",
+      "date_updated": "2023-06-14T13:54:04.105Z",
+      "start_date": "2019-11-15",
+      "end_date": "2020-06-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "webdev"
+      ],
+      "language": [
+        "javascript"
+      ],
+      "Organizations": [
+        {
+          "id": 95,
+          "short_id": "ODA",
+          "legal_form": "ev",
+          "sector": "environment",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "Organisation der Arbeitswelt (OdA) Umwelt",
+              "website": "https://www.umweltprofis.ch/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Organisation der Arbeitswelt (OdA) Umwelt",
+              "website": "https://www.umweltprofis.ch/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://bildung.umweltprofis.ch/",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Web Applikation"
+            },
+            {
+              "language": "en-US",
+              "description": "Web Application"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://www.umweltprofis.ch/assessment",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Assessment auf der Umweltprofis Webseite"
+            },
+            {
+              "language": "en-US",
+              "description": "Assessment on the website of Umweltprofis"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Promoting qualifications in sustainability: searchable database with interactive assessment",
+          "summary": null,
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Weiterbildungen im nachhaltigen Sektor fördern: Durchsuchbare Datenbank und interaktives Assessment",
+          "summary": null,
+          "description": ""
         }
       ]
     },
