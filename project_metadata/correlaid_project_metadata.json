@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_published": 1686733914859,
-    "last_updated": 1686733770023,
-    "n": 17
+    "last_published": 1686736837969,
+    "last_updated": 1686736616036,
+    "n": 18
   },
   "projects": [
     {
@@ -65,7 +65,6 @@
         }
       ],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -105,8 +104,8 @@
         {
           "id": 101,
           "short_id": "PBN",
-          "legal_form": null,
-          "sector": "environment",
+          "legal_form": "ev",
+          "sector": "social_services",
           "translations": [
             {
               "language": "en-US",
@@ -125,7 +124,6 @@
       ],
       "Projects_Outputs": [],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -191,7 +189,6 @@
         "title": "Data4Good in der Ökologie",
         "id": 40
       },
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -269,7 +266,6 @@
         }
       ],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -334,7 +330,6 @@
         "title": "About CorrelAid - Automatisierte Reportgenerierung für die Weltläden",
         "id": 48
       },
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -430,7 +425,6 @@
         "title": "Data4Good in der Ökologie",
         "id": 40
       },
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -477,7 +471,6 @@
       ],
       "Projects_Outputs": [],
       "Podcast": null,
-      "People": [],
       "Posts": [],
       "translations": [
         {
@@ -517,7 +510,7 @@
         {
           "id": 68,
           "short_id": "DEN",
-          "legal_form": null,
+          "legal_form": "ev",
           "sector": "arts_culture_sports",
           "translations": [
             {
@@ -553,7 +546,6 @@
         }
       ],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -650,7 +642,6 @@
         "title": "About CorrelAid - Eine interaktive Weltkarte für erlassjahr.de",
         "id": 44
       },
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -691,7 +682,7 @@
         {
           "id": 74,
           "short_id": "EYP",
-          "legal_form": null,
+          "legal_form": "stiftung",
           "sector": "education_research",
           "translations": [
             {
@@ -711,7 +702,6 @@
       ],
       "Projects_Outputs": [],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -752,7 +742,7 @@
         {
           "id": 87,
           "short_id": "MAR",
-          "legal_form": null,
+          "legal_form": "ev",
           "sector": "social_services",
           "translations": [
             {
@@ -810,7 +800,6 @@
         }
       ],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -850,7 +839,7 @@
         {
           "id": 62,
           "short_id": "CFE",
-          "legal_form": null,
+          "legal_form": "gug",
           "sector": "law_advocacy_politics",
           "translations": [
             {
@@ -875,7 +864,6 @@
         "title": "Data4Good für mehr Vielfalt und Diversität",
         "id": 41
       },
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -996,7 +984,6 @@
         }
       ],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -1010,6 +997,73 @@
           "title": "Erstellung eines interaktiven Survey-Reports für die Hacklab Foundation, Ghana",
           "summary": "Die Hacklab Foundation kontaktierte CorrelAid, um Einblicke in die ghanaische Entwickler*innen-Community aus den Daten ihres Developer Surveys zu gewinnen. Das CorrelAid-Team analysierte und visualisierte die Daten, um sie für diejenigen verständlich zu machen, die mit datenwissenschaftlichen Techniken nicht vertraut sind. Der Report zeigte interessante Erkenntnisse über die ghanaische Developer Community und wird dazu dienen, die Arbeit der Hacklab Foundation zu verbessern und Entwickler*innen in Zukunft besser zu unterstützen. Der Abschlussbericht wurde auf einer öffentlichen Webseite veröffentlicht und in einer Veranstaltung der Öffentlichkeit vorgestellt, so dass jede*r die Ergebnisse selbst erkunden kann.",
           "description": "<h1>Die Challenge</h1>\n<p>Das Hauptziel des Projekts bestand darin, Erkenntnisse &uuml;ber die ghanaische Entwickler:innengemeinschaft zu gewinnen, um ein besseres Verst&auml;ndnis der Hintergr&uuml;nde, F&auml;higkeiten und Eigenschaften der Entwickler:innen zu erhalten. Die Analyse, sinnvolle Zusammenfassung und Kommunikation der Daten war jedoch eine Aufgabe, mit der die Hacklab Foundation nicht ausreichend Erfahrung hatte. Die Ehrenamtlichen ben&ouml;tigten Unterst&uuml;tzung bei diesem Aspekt des Projekts.</p>\n<p>Der Beitrag von CorrelAid bestand aus der Exploration der Daten sowie ihrer Analyse, mit dem Ziel, interessante Erkenntnisse zu finden. Dar&uuml;ber hinaus wurden die Ergebnisse auf attraktive und verst&auml;ndliche Weise visualisiert, um die Kommunikation der Ergebnisse mit Kooperationspartner:innen der Hacklab Foundation, die mit technischen Fragen nicht vertraut sind, und der breiteren &Ouml;ffentlichkeit zu erm&ouml;glichen.</p>\n<h1>Die Datengrundlage</h1>\n<p>Die Umfragedaten umfassten 272 Beobachtungen zu 41 Fragen. Einige Fragen wurden im Multiple-Choice-Format beantwortet, andere erlaubten kurze, offene Aussagen.</p>\n<p>Die anonymisierten Daten wurden lokal von der Hacklab Foundation gespeichert und uns &uuml;ber GitHub im .xlsx-Format zur Verf&uuml;gung gestellt. Vor unserem Projekt waren die Daten noch nicht analysiert oder verwendet worden.</p>\n<h1>Der Ansatz</h1>\n<p>CorrelAid unterst&uuml;tzte die Hacklab Foundation bei der Datenerhebung, -analyse und der Gewinnung von Erkenntnissen. Au&szlig;erdem erstellten die CorrelAid-Freiwilligen den <a href=\"https://hacklabfoundation.org/Developer-Census-2020-Report.html\">Bericht</a> und die interaktiven Visualisierungen. Die wichtigsten Technologien waren R und RMarkdown f&uuml;r die Datenanalyse und -visualisierung sowie CSS und HTML f&uuml;r das Design und die Erstellung des Berichts. Das endg&uuml;ltige Design spiegelt das Corporate Design der Hacklab Foundation wider.</p>\n<p>Das Projekt begann mit der Datenbereinigung, gefolgt von der Datenexploration und der Generierung von Erkenntnissen. Abschlie&szlig;end wurden die Erkenntnisse in einem Bericht zusammengefasst, der verschiedene Arten von Datenvisualisierungen enth&auml;lt. Der endg&uuml;ltige Bericht &ouml;ffentlich verf&uuml;gbar und kann von jedermann erkundet werden.</p>\n<h1>Die Wirkung</h1>\n<p>Die Daten lieferten eine Reihe n&uuml;tzlicher Erkenntnisse &uuml;ber die ghanaische Entwickler:innengemeinschaft. So gaben beispielsweise nur 17 % der gesamten Stichprobe an, Frauen zu sein. Allerdings war der Anteil der Frauen unter den Studierenden h&ouml;her, sodass sich die Repr&auml;sentation von Frauen in der ghanaischen Entwickler:innengemeinschaft in der Zukunft positiv entwickeln sollte. Dar&uuml;ber hinaus gab es interessante Ergebnisse zu den am h&auml;ufigsten verwendeten Technologien und den Arbeitsbedingungen.</p>\n<p>Diese Ergebnisse werden zur Verbesserung der Arbeit der Hacklab Foundation genutzt, um professionelle Entwickler:innen sowie junge Menschen, die Entwickler:innen werden wollen, zu unterst&uuml;tzen. Der anschauliche Bericht kann mit Kooperationspartnern wie Organisationen und anderen Entwickler:innengemeinschaftengeteilt werden. So f&ouml;rdert der Bericht die Zusammenarbeit von verschiedenen Communities, die sich f&uuml;r Vielfalt, Ausbildung und Vernetzung in der ghanaischen Entwickler:innengemeinschaft einsetzen. Dar&uuml;ber hinaus verbessert der interaktive HTML-Bericht die Kommunikation und Sichtbarkeit der Hacklab Foundation.</p>\n<p>Die Analysen und der Code wurden mit der Hacklab Foundation geteilt, so dass der Bericht reproduzierbar ist. Der Code kann au&szlig;erdem verwendet werden, um Berichte f&uuml;r zuk&uuml;nftige Umfragen zu erstellen, die die Hacklab Foundation in den kommenden Jahren durchf&uuml;hren will.</p>"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "project_id": "2021-04-KOB",
+      "status": "published",
+      "date_updated": "2023-06-14T09:56:56.036Z",
+      "start_date": "2021-04-15",
+      "end_date": "2022-02-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": true,
+      "data": {},
+      "type": [
+        "opensource"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://correlaid.github.io/kbtbr/",
+          "output_type": "code_documentation",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Dokumentation des Packages"
+            },
+            {
+              "language": "en-US",
+              "description": "Documentation of the package"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/kbtbr",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "An R wrapper for the KoboToolbox API",
+          "summary": "KoBoToolbox is an open-source suite of tools for data collection, management, and analysis. It provides a platform for creating customized forms or surveys, collecting data offline using mobile devices, and analyzing the collected data. The primary goal of KoBoToolbox is to enable field data collection in areas with limited or no internet connectivity. This is why KoboToolbox is widely used by researchers, humanitarian organizations, and researchers, humanitarian organizations, and development practitioners.\n\nThe CorrelAid team developed an R package that gives KoboToolbox users programmatic access to the KoboToolbox API, giving them a tool to automate processes and improve data workflows. ",
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "R Wrapper für die KoboToolbox API",
+          "summary": "KoBoToolbox ist ein Open-Source Tool für die Datenerhebung, -verwaltung und -analyse. KoboToolbox bietet eine Plattform für die Erstellung von Formulare und Umfragen, die Offline-Erfassung von Daten mit mobilen Geräten und die Analyse der erfassten Daten. Das Hauptziel von KoboToolbox ist es, die Datenerhebung vor Ort in Gebieten mit eingeschränkter oder fehlender Internetanbindung zu ermöglichen. Daher wird KoboToolbox v.a. auch von Forscher*innen und humanitären Organisationen genutzt.\n\nDas CorrelAid Team entwickelte ein R Package, das den Nutzer*innen von KoboToolbox den programmatischen Zugriff auf die KoboToolbox API ermöglicht und ihnen so ein Werkzeug an die Hand gibt, um Prozesse zu automatisieren und Daten-Workflows zu verbessern. ",
+          "description": ""
         }
       ]
     },
@@ -1088,7 +1142,6 @@
         }
       ],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -1129,7 +1182,7 @@
         {
           "id": 83,
           "short_id": "LAU",
-          "legal_form": null,
+          "legal_form": "stiftung",
           "sector": "arts_culture_sports",
           "translations": [
             {
@@ -1180,7 +1233,6 @@
         }
       ],
       "Podcast": null,
-      "People": null,
       "Posts": null,
       "translations": [
         {
@@ -1228,7 +1280,6 @@
       ],
       "Projects_Outputs": [],
       "Podcast": null,
-      "People": [],
       "Posts": [],
       "translations": [
         {
@@ -1268,14 +1319,13 @@
         {
           "id": -99,
           "short_id": "ANO",
-          "legal_form": null,
+          "legal_form": "gug",
           "sector": "law_advocacy_politics",
           "translations": []
         }
       ],
       "Projects_Outputs": [],
       "Podcast": null,
-      "People": [],
       "Posts": [],
       "translations": [
         {
