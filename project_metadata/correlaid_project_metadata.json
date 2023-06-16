@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_published": 1686790800962,
-    "last_updated": 1686750844105,
+    "last_published": 1686877200423,
+    "last_updated": 1686813977809,
     "n": 20
   },
   "projects": [
@@ -1186,7 +1186,7 @@
       "id": 132,
       "project_id": "2021-04-KOB",
       "status": "published",
-      "date_updated": "2023-06-14T09:56:56.036Z",
+      "date_updated": "2023-06-15T07:26:17.809Z",
       "start_date": "2021-04-15",
       "end_date": "2022-02-15",
       "project_status": "finished",
@@ -1199,7 +1199,28 @@
       "language": [
         "rstats"
       ],
-      "Organizations": [],
+      "Organizations": [
+        {
+          "id": 66,
+          "short_id": "COR",
+          "legal_form": null,
+          "sector": "intermediaries_voluntarismpromotion",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "CorrelAid e.V.",
+              "website": "https://correlaid.org",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "CorrelAid e.V.",
+              "website": "https://correlaid.org",
+              "description": null
+            }
+          ]
+        }
+      ],
       "Projects_Outputs": [
         {
           "is_public": true,
