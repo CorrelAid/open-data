@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_published": 1687136400473,
-    "last_updated": 1686813977809,
-    "n": 20
+    "last_published": 1687162933867,
+    "last_updated": 1687162916803,
+    "n": 21
   },
   "projects": [
     {
@@ -1267,6 +1267,50 @@
           "title": "R Wrapper für die KoboToolbox API",
           "summary": "KoBoToolbox ist ein Open-Source Tool für die Datenerhebung, -verwaltung und -analyse. KoboToolbox bietet eine Plattform für die Erstellung von Formulare und Umfragen, die Offline-Erfassung von Daten mit mobilen Geräten und die Analyse der erfassten Daten. Das Hauptziel von KoboToolbox ist es, die Datenerhebung vor Ort in Gebieten mit eingeschränkter oder fehlender Internetanbindung zu ermöglichen. Daher wird KoboToolbox v.a. auch von Forscher*innen und humanitären Organisationen genutzt.\n\nDas CorrelAid Team entwickelte ein R Package, das den Nutzer*innen von KoboToolbox den programmatischen Zugriff auf die KoboToolbox API ermöglicht und ihnen so ein Werkzeug an die Hand gibt, um Prozesse zu automatisieren und Daten-Workflows zu verbessern. ",
           "description": ""
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "project_id": "2021-04-AUT",
+      "status": "published_anon",
+      "date_updated": "2023-06-19T08:21:56.803Z",
+      "start_date": "2021-04-15",
+      "end_date": "2021-12-08",
+      "project_status": "finished",
+      "team_size": 6,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "automation"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": -99,
+          "short_id": "ANO",
+          "legal_form": null,
+          "sector": "education_research",
+          "translations": []
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": [],
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Automation of processes for the evaluation of webinars and analysis of anonymized web tracking statistics",
+          "summary": "Our partner organization - a NPO active in continuing education - was trying to be more data driven, but data from many different sources and the resulting many tedious and time consuming manual data processing tasks proved to be a substantial hurdle. \n\nThe CorrelAid team supported our partner NPO by developing scripts to (partially) automate and better structure those processes.\nAs part of the project, the CorrelAid volunteers split into small subteams and tackled different data processes, for instance the extraction and processing of survey data on Surveymonkey including immediate and long-term feedback for the webinars of the NPO. The team provided analysis scripts for relevant metrics like length, topics and number of participants. Another part of the team focused on analyzing anonymized web tracking data from Matomo on download statistics of the educational material of the partner NPO. The volunteers analyzed the data and provided CSV files and HTML reports  with visualizations that split down the relevant metrics by different categories that are relevant to the partner organization."
+        },
+        {
+          "language": "de-DE",
+          "title": "Automatisierung von Prozessen zur Evaluation von Webinaren und zur Analyse von anonymisierten Web Tracking Daten",
+          "summary": "Unsere Partnerorganisation - eine NPO, die in der Weiterbildung tätig ist - versuchte, stärker datenorientiert zu arbeiten, aber Daten aus vielen verschiedenen Quellen und die daraus resultierenden vielen mühsamen und zeitaufwendigen manuellen Datenverarbeitungsaufgaben erwiesen sich als eine erhebliche Hürde. \n\nDas CorrelAid-Team unterstützte unsere Partner-NPO durch die Entwicklung von Skripten, um diese Prozesse (teilweise) zu automatisieren und besser zu strukturieren.\nIm Rahmen des Projekts teilten sich die CorrelAid-Freiwilligen in kleine Unterteams auf und nahmen verschiedene Datenprozesse in Angriff, z.B. die Extraktion und Aufbereitung von Umfragedaten auf Surveymonkey inklusive des unmittelbaren und langfristigen Feedbacks für die Webinare der NPO. Das Team erstellte Analyseskripte für relevante Metriken wie Länge, Themen und Anzahl der Teilnehmer*innen. Ein anderer Teil des Teams konzentrierte sich auf die Analyse anonymisierter Webtracking-Daten von Matomo zu Download-Statistiken des Bildungsmaterials der Partner-NPO. Die Volunteers analysierten die Daten und stellten CSV-Dateien und HTML-Berichte mit Visualisierungen zur Verfügung, die die relevanten Metriken nach verschiedenen Kategorien aufschlüsselten, die für die Partnerorganisation relevant sind.  "
         }
       ]
     },
