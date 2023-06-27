@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_published": 1687827601061,
-    "last_updated": 1687162916803,
-    "n": 21
+    "last_published": 1687866170106,
+    "last_updated": 1687866159248,
+    "n": 22
   },
   "projects": [
     {
@@ -663,6 +663,89 @@
           "language": "de-DE",
           "title": "Weiterbildungen im nachhaltigen Sektor fördern: Durchsuchbare Datenbank und interaktives Assessment",
           "summary": null,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "project_id": "2020-01-KOM",
+      "status": "published",
+      "date_updated": "2023-06-27T11:42:39.248Z",
+      "start_date": "2020-01-15",
+      "end_date": "2020-06-15",
+      "project_status": "finished",
+      "team_size": 2,
+      "is_internal": false,
+      "data": [
+        "PROCESS",
+        "SURVEY"
+      ],
+      "type": [
+        "EXPLORATORY",
+        "REPORTING",
+        "VISUALIZATION"
+      ],
+      "language": [
+        "rstats"
+      ],
+      "Organizations": [
+        {
+          "id": 115,
+          "short_id": "VOT",
+          "legal_form": "gug",
+          "sector": "law_advocacy_politics",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "VOTO",
+              "website": "https://voto.vote/",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "VOTO",
+              "website": "https://voto.vote/",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://youtu.be/JJoEJGc1eNc?t=2745",
+          "output_type": "video",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Präsentation bei der CorrelCon 2021 (in Englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Presentation at CorrelCon 2021"
+            }
+          ]
+        }
+      ],
+      "Podcast": {
+        "description": "Unsere Show \"About CorrelAid\" dreht sich rund um Projekte, Lokalgruppen, Events und Personen bei CorrelAid.In dieser Folge unterhält sich Theresa mit Aylin Kallmayer und Andreas Neumann über ihre Analysen für den digitalen Wahlhelfer KOMUNAT, einem Projekt des Vereins \"Team Tomorrow\". Wie eine Wahlentscheidungshilfe für Kommunalwahlen aussehen kann und welche datenanalytischen Aufgaben dabei anfallen, das erfahrt ihr hier.",
+        "soundcloud_link": "https://soundcloud.com/correlaid_podcast/about-correlaid-data-science-fur-die-wahlentscheidungshilfe-komunat",
+        "title": "About CorrelAid - Data Science für die Wahlentscheidungshilfe KOMUNAT",
+        "id": 45
+      },
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Komunat - The impact of Voting Advice Applications on the Local Level",
+          "summary": "Who thinks of the endless, confusing lists of candidates when they hear the word \"local elections\"? That's why KOMUNAT was developed - an election decision-making tool for the 2019 local elections in Stuttgart. Each candidate was able to state their own attitude to various statements. Users rated the same statements in an online application and received a ranking of the candidates based on the similarity of their attitudes. The CorrelAid team analyzed the anonymous usage data - for example, usage statistics, response tendencies of participants and candidates, the influence of a KOMUNAT profile on the share of votes - and provided feedback for the further development of KOMUNAT. The results were summarized in a report and an interactive Shiny app.",
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Komunat - die Wirkung von Wahlentscheidungshilfen bei Kommunalwahlen",
+          "summary": "Wem kommen beim Stichwort “Kommunalwahl” direkt die unendlich langen, unübersichtlichen Listen mit Kandidat*innen in den Sinn? Dafür wurde der KOMUNAT entwickelt - eine Wahlentscheidungshilfe für die Kommunalwahl in Stuttgart 2019.  Jede*r Kandidat*in konnte zu verschiedenen Statements die eigene Einstellung angeben. Nutzer*innen bewerteten die gleichen Statements in einer Online-Applikation und erhielten ein Ranking der Kandidierenden basierend auf der Ähnlichkeit ihrer Einstellungen. Das CorrelAid-Team analysierte die anonymen Nutzungsdaten - zum Beispiel die Nutzungsstatistik, die Antworttendenzen der Teilnehmenden und Kandidierenden, der Einfluss eines KOMUNAT-Profils auf den Stimmenanteil - und gaben Feedback zur Weiterentwicklung des KOMUNATs. Die Ergebnisse wurden in einem Bericht und einer interaktiven Shiny-App zusammengefasst.\n",
           "description": ""
         }
       ]
