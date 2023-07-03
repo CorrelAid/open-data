@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_published": 1688346000649,
-    "last_updated": 1687866159248,
-    "n": 22
+    "last_published": 1688399373886,
+    "last_updated": 1688399364772,
+    "n": 23
   },
   "projects": [
     {
@@ -78,6 +78,46 @@
           "title": "Reducing food waste and improving planning processes: time series analysis for a restaurant for those in need",
           "summary": "The \"Mannheimer Platte\" is a restaurant that offers affordable lunches to everyone, but especially those without financial means.  The project with CorrelAid aimed at optimizing and evaluating processes within the organization. The Mannheimer Platte team needed insights into the factors influencing sales and demand for the meals to improve procurement planning. The data consisted of 17 years of time-series data, recorded daily, including variables such as the number of meals and beverages served and the total revenue. The data was stored in Excel files, and the CorrelAid team helped with data analysis using R and SAS, performing data cleaning and wrangling tasks. The project provided insights confirming the intuition of the volunteers regarding the meal's popularity on certain weekdays and revealed patterns such as reduced orders and increased use of vouchers towards the end of the month. The organization learned the value of data and its potential to inform decision-making. The outputs of the project were shared through a handover workshop and presentations, including easy-to-understand heuristics derived from statistical models.",
           "description": null
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "project_id": "2022-11-ATT",
+      "status": "published_anon",
+      "date_updated": "2023-07-03T15:49:24.772Z",
+      "start_date": "2022-11-09",
+      "end_date": null,
+      "project_status": "finished",
+      "team_size": 1,
+      "is_internal": false,
+      "data": [
+        "OPENDATA",
+        "PROCESS"
+      ],
+      "type": [
+        "EXPLORATORY",
+        "REPORTING",
+        "VISUALIZATION"
+      ],
+      "language": [
+        "RSTATS",
+        "PYTHON"
+      ],
+      "Organizations": [],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": [],
+      "translations": [
+        {
+          "language": "de-DE",
+          "title": "Qualitätsanalyse von OpenStreetMap Daten für Trinkbrunnen",
+          "summary": "Ziel dieses Projekts war die Analyse von Open Street Maps (OSM) Daten zu Trinkbrunnen in Deutschland. Der Fokus lag auf der Ermittlung der Anzahl der gelisteten Trinkstellen pro 1000 Einwohner in verschiedenen Städten und dem Vergleich dieser Daten mit den offiziellen Zahlen einiger Städte. Darüber hinaus wurde die Qualität der Metadaten durch den Vergleich mit den definierten Pflichtangaben bewertet, darunter Attribute wie Brunnentyp, Nachfüllmöglichkeit, Barrierefreiheit, öffentliche Zugänglichkeit und weitere Informationen."
+        },
+        {
+          "language": "en-US",
+          "title": "Assessing the quality of OpenStreetMap data for drinking fountains",
+          "summary": "This project aimed to analyze Open Street Maps (OSM) data on drinking fountains in Germany. The focus was on determining the number of listed drinking points per 1000 inhabitants in various cities and comparing this data with the official numbers provided by some cities. The quality of metadata was also assessed by comparing it with the defined mandatory information, including attributes such as fountain type, refillable bottle option, accessibility, public accessibility, and descriptive information."
         }
       ]
     },
