@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_published": 1688399373886,
-    "last_updated": 1688399364772,
+    "last_published": 1688399543984,
+    "last_updated": 1688399538340,
     "n": 23
   },
   "projects": [
@@ -85,7 +85,7 @@
       "id": 57,
       "project_id": "2022-11-ATT",
       "status": "published_anon",
-      "date_updated": "2023-07-03T15:49:24.772Z",
+      "date_updated": "2023-07-03T15:52:18.340Z",
       "start_date": "2022-11-09",
       "end_date": null,
       "project_status": "finished",
@@ -104,7 +104,15 @@
         "RSTATS",
         "PYTHON"
       ],
-      "Organizations": [],
+      "Organizations": [
+        {
+          "id": -99,
+          "short_id": "ANO",
+          "legal_form": "ev",
+          "sector": "environment",
+          "translations": []
+        }
+      ],
       "Projects_Outputs": [],
       "Podcast": null,
       "Posts": [],
