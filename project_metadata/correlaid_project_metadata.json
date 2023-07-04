@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_published": 1688399543984,
-    "last_updated": 1688399538340,
+    "last_published": 1688432400842,
+    "last_updated": 1688399818321,
     "n": 23
   },
   "projects": [
@@ -85,9 +85,9 @@
       "id": 57,
       "project_id": "2022-11-ATT",
       "status": "published_anon",
-      "date_updated": "2023-07-03T15:52:18.340Z",
+      "date_updated": "2023-07-03T15:56:58.321Z",
       "start_date": "2022-11-09",
-      "end_date": null,
+      "end_date": "2022-11-20",
       "project_status": "finished",
       "team_size": 1,
       "is_internal": false,
@@ -667,6 +667,21 @@
         }
       ],
       "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://github.com/gtmnsh/umweltprofis",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Repository (nach Handover)"
+            },
+            {
+              "language": "en-US",
+              "description": "Repository (after handover)"
+            }
+          ]
+        },
         {
           "is_public": true,
           "url": "https://bildung.umweltprofis.ch/",
