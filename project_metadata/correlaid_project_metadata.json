@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_published": 1688432400842,
-    "last_updated": 1688399818321,
-    "n": 23
+    "last_published": 1689171203788,
+    "last_updated": 1689170934887,
+    "n": 26
   },
   "projects": [
     {
@@ -84,8 +84,8 @@
     {
       "id": 57,
       "project_id": "2022-11-ATT",
-      "status": "published_anon",
-      "date_updated": "2023-07-03T15:56:58.321Z",
+      "status": "published",
+      "date_updated": "2023-07-12T13:10:17.725Z",
       "start_date": "2022-11-09",
       "end_date": "2022-11-20",
       "project_status": "finished",
@@ -106,26 +106,87 @@
       ],
       "Organizations": [
         {
-          "id": -99,
-          "short_id": "ANO",
+          "id": 1,
+          "short_id": "ATT",
           "legal_form": "ev",
           "sector": "environment",
-          "translations": []
+          "translations": [
+            {
+              "language": "de-DE",
+              "name": "a tip: tap e.V.",
+              "website": "https://atiptap.org/",
+              "description": null
+            },
+            {
+              "language": "en-US",
+              "name": "a tip: tap e.V.",
+              "website": "https://atiptap.org/",
+              "description": null
+            }
+          ]
         }
       ],
-      "Projects_Outputs": [],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/trinkbrunnen-analyse",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "GitHub Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "GitHub Repository"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://correlaid.github.io/trinkbrunnen-analyse/map-deutschland-drinking-water.html",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Interaktive Karte der Trinkbrunnen"
+            },
+            {
+              "language": "en-US",
+              "description": "Interactive map of drinking fountains"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://correlaid.github.io/trinkbrunnen-analyse/analysis-fountains-germany.html",
+          "output_type": "report",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Analyse der Qualität der Metadaten von OpenStreetMap Daten zu Trinkbrunnen"
+            },
+            {
+              "language": "en-US",
+              "description": "Analysis of the quality of drinking fountain OpenStreetMap data"
+            }
+          ]
+        }
+      ],
       "Podcast": null,
-      "Posts": [],
+      "Posts": null,
       "translations": [
         {
           "language": "de-DE",
           "title": "Qualitätsanalyse von OpenStreetMap Daten für Trinkbrunnen",
-          "summary": "Ziel dieses Projekts war die Analyse von Open Street Maps (OSM) Daten zu Trinkbrunnen in Deutschland. Der Fokus lag auf der Ermittlung der Anzahl der gelisteten Trinkstellen pro 1000 Einwohner in verschiedenen Städten und dem Vergleich dieser Daten mit den offiziellen Zahlen einiger Städte. Darüber hinaus wurde die Qualität der Metadaten durch den Vergleich mit den definierten Pflichtangaben bewertet, darunter Attribute wie Brunnentyp, Nachfüllmöglichkeit, Barrierefreiheit, öffentliche Zugänglichkeit und weitere Informationen."
+          "summary": "Ziel dieses Projekts war die Analyse von Open Street Maps (OSM) Daten zu Trinkbrunnen in Deutschland. Der Fokus lag auf der Ermittlung der Anzahl der gelisteten Trinkstellen pro 1000 Einwohner in verschiedenen Städten und dem Vergleich dieser Daten mit den offiziellen Zahlen einiger Städte. Darüber hinaus wurde die Qualität der Metadaten durch den Vergleich mit den definierten Pflichtangaben bewertet, darunter Attribute wie Brunnentyp, Nachfüllmöglichkeit, Barrierefreiheit, öffentliche Zugänglichkeit und weitere Informationen.",
+          "description": null
         },
         {
           "language": "en-US",
           "title": "Assessing the quality of OpenStreetMap data for drinking fountains",
-          "summary": "This project aimed to analyze Open Street Maps (OSM) data on drinking fountains in Germany. The focus was on determining the number of listed drinking points per 1000 inhabitants in various cities and comparing this data with the official numbers provided by some cities. The quality of metadata was also assessed by comparing it with the defined mandatory information, including attributes such as fountain type, refillable bottle option, accessibility, public accessibility, and descriptive information."
+          "summary": "This project aimed to analyze Open Street Maps (OSM) data on drinking fountains in Germany. The focus was on determining the number of listed drinking points per 1000 inhabitants in various cities and comparing this data with the official numbers provided by some cities. The quality of metadata was also assessed by comparing it with the defined mandatory information, including attributes such as fountain type, refillable bottle option, accessibility, public accessibility, and descriptive information.",
+          "description": null
         }
       ]
     },
@@ -1047,6 +1108,123 @@
       ]
     },
     {
+      "id": 114,
+      "project_id": "2020-10-CIT",
+      "status": "published",
+      "date_updated": "2023-07-12T13:37:26.751Z",
+      "start_date": "2020-10-15",
+      "end_date": "2021-05-15",
+      "project_status": "finished",
+      "team_size": 6,
+      "is_internal": true,
+      "data": [
+        "process",
+        "opendata"
+      ],
+      "type": [
+        "EXPLORATORY",
+        "MODELLING",
+        "VISUALIZATION"
+      ],
+      "language": [
+        "PYTHON"
+      ],
+      "Organizations": [],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://github.com/correlaid-paris/open_inaturalist_code",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Repository für die interaktiven Karten"
+            },
+            {
+              "language": "en-US",
+              "description": "Repository for interactive maps"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://github.com/correlaid-paris/citizen_science_inaturalist",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://arxiv.org/abs/2112.02693",
+          "output_type": "article",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Preprint Journal Paper"
+            },
+            {
+              "language": "en-US",
+              "description": "Preprint Journal Paper"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://youtu.be/JJoEJGc1eNc?t=3032",
+          "output_type": "video",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Präsentation bei der CorrelCon 2021 (in Englisch)"
+            },
+            {
+              "language": "en-US",
+              "description": "Presentation at CorrelCon 2021"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://inaturalist-cnc.correlaid.org/",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Vergleich des Nutzer*innenverhaltens vor und während der COVID-19 Pandemie anhand von interaktiven Karten"
+            },
+            {
+              "language": "en-US",
+              "description": "Interactive Maps comparing User Behavior in different cities before and during the COVID-19 pandemic"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Citizen Science Network Dynamics - User Behavior on the iNaturalist Platform",
+          "summary": "The CorrelAid team analyzed open data of the Citizen Science Platform iNaturalist, where users can upload observations of plants and animals, and other users can help identify them. The team found out a lot of interesting things on how the user base changed over time, what types of users there are, how they interact with each other and the platform and much more.",
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Netzwerkdynamiken in Citizen Science - Nutzer*innenverhalten auf der iNaturalist Plattform",
+          "summary": "Das CorrelAid-Team analysierte offene Daten der Citizen Science Plattform iNaturalist, auf der Nutzer*innen Beobachtungen von Pflanzen und Tieren hochladen können und andere Nutzer*innen bei der Identifizierung unterstützen können. Das Team fand eine Menge interessanter Dinge darüber heraus, wie sich die Nutzerbasis im Laufe der Zeit verändert hat, welche Arten von Nutzern es gibt, wie sie miteinander und mit der Plattform interagieren und vieles mehr.",
+          "description": ""
+        }
+      ]
+    },
+    {
       "id": 117,
       "project_id": "2020-11-MAR",
       "status": "published",
@@ -1325,6 +1503,51 @@
           "title": "Erstellung eines interaktiven Survey-Reports für die Hacklab Foundation, Ghana",
           "summary": "Die Hacklab Foundation kontaktierte CorrelAid, um Einblicke in die ghanaische Entwickler*innen-Community aus den Daten ihres Developer Surveys zu gewinnen. Das CorrelAid-Team analysierte und visualisierte die Daten, um sie für diejenigen verständlich zu machen, die mit datenwissenschaftlichen Techniken nicht vertraut sind. Der Report zeigte interessante Erkenntnisse über die ghanaische Developer Community und wird dazu dienen, die Arbeit der Hacklab Foundation zu verbessern und Entwickler*innen in Zukunft besser zu unterstützen. Der Abschlussbericht wurde auf einer öffentlichen Webseite veröffentlicht und in einer Veranstaltung der Öffentlichkeit vorgestellt, so dass jede*r die Ergebnisse selbst erkunden kann.",
           "description": "<h1>Die Challenge</h1>\n<p>Das Hauptziel des Projekts bestand darin, Erkenntnisse &uuml;ber die ghanaische Entwickler:innengemeinschaft zu gewinnen, um ein besseres Verst&auml;ndnis der Hintergr&uuml;nde, F&auml;higkeiten und Eigenschaften der Entwickler:innen zu erhalten. Die Analyse, sinnvolle Zusammenfassung und Kommunikation der Daten war jedoch eine Aufgabe, mit der die Hacklab Foundation nicht ausreichend Erfahrung hatte. Die Ehrenamtlichen ben&ouml;tigten Unterst&uuml;tzung bei diesem Aspekt des Projekts.</p>\n<p>Der Beitrag von CorrelAid bestand aus der Exploration der Daten sowie ihrer Analyse, mit dem Ziel, interessante Erkenntnisse zu finden. Dar&uuml;ber hinaus wurden die Ergebnisse auf attraktive und verst&auml;ndliche Weise visualisiert, um die Kommunikation der Ergebnisse mit Kooperationspartner:innen der Hacklab Foundation, die mit technischen Fragen nicht vertraut sind, und der breiteren &Ouml;ffentlichkeit zu erm&ouml;glichen.</p>\n<h1>Die Datengrundlage</h1>\n<p>Die Umfragedaten umfassten 272 Beobachtungen zu 41 Fragen. Einige Fragen wurden im Multiple-Choice-Format beantwortet, andere erlaubten kurze, offene Aussagen.</p>\n<p>Die anonymisierten Daten wurden lokal von der Hacklab Foundation gespeichert und uns &uuml;ber GitHub im .xlsx-Format zur Verf&uuml;gung gestellt. Vor unserem Projekt waren die Daten noch nicht analysiert oder verwendet worden.</p>\n<h1>Der Ansatz</h1>\n<p>CorrelAid unterst&uuml;tzte die Hacklab Foundation bei der Datenerhebung, -analyse und der Gewinnung von Erkenntnissen. Au&szlig;erdem erstellten die CorrelAid-Freiwilligen den <a href=\"https://hacklabfoundation.org/Developer-Census-2020-Report.html\">Bericht</a> und die interaktiven Visualisierungen. Die wichtigsten Technologien waren R und RMarkdown f&uuml;r die Datenanalyse und -visualisierung sowie CSS und HTML f&uuml;r das Design und die Erstellung des Berichts. Das endg&uuml;ltige Design spiegelt das Corporate Design der Hacklab Foundation wider.</p>\n<p>Das Projekt begann mit der Datenbereinigung, gefolgt von der Datenexploration und der Generierung von Erkenntnissen. Abschlie&szlig;end wurden die Erkenntnisse in einem Bericht zusammengefasst, der verschiedene Arten von Datenvisualisierungen enth&auml;lt. Der endg&uuml;ltige Bericht &ouml;ffentlich verf&uuml;gbar und kann von jedermann erkundet werden.</p>\n<h1>Die Wirkung</h1>\n<p>Die Daten lieferten eine Reihe n&uuml;tzlicher Erkenntnisse &uuml;ber die ghanaische Entwickler:innengemeinschaft. So gaben beispielsweise nur 17 % der gesamten Stichprobe an, Frauen zu sein. Allerdings war der Anteil der Frauen unter den Studierenden h&ouml;her, sodass sich die Repr&auml;sentation von Frauen in der ghanaischen Entwickler:innengemeinschaft in der Zukunft positiv entwickeln sollte. Dar&uuml;ber hinaus gab es interessante Ergebnisse zu den am h&auml;ufigsten verwendeten Technologien und den Arbeitsbedingungen.</p>\n<p>Diese Ergebnisse werden zur Verbesserung der Arbeit der Hacklab Foundation genutzt, um professionelle Entwickler:innen sowie junge Menschen, die Entwickler:innen werden wollen, zu unterst&uuml;tzen. Der anschauliche Bericht kann mit Kooperationspartnern wie Organisationen und anderen Entwickler:innengemeinschaftengeteilt werden. So f&ouml;rdert der Bericht die Zusammenarbeit von verschiedenen Communities, die sich f&uuml;r Vielfalt, Ausbildung und Vernetzung in der ghanaischen Entwickler:innengemeinschaft einsetzen. Dar&uuml;ber hinaus verbessert der interaktive HTML-Bericht die Kommunikation und Sichtbarkeit der Hacklab Foundation.</p>\n<p>Die Analysen und der Code wurden mit der Hacklab Foundation geteilt, so dass der Bericht reproduzierbar ist. Der Code kann au&szlig;erdem verwendet werden, um Berichte f&uuml;r zuk&uuml;nftige Umfragen zu erstellen, die die Hacklab Foundation in den kommenden Jahren durchf&uuml;hren will.</p>"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "project_id": "2021-03-NAK",
+      "status": "published_anon",
+      "date_updated": "2023-07-12T13:23:42.372Z",
+      "start_date": "2021-03-15",
+      "end_date": "2021-10-15",
+      "project_status": "finished",
+      "team_size": 5,
+      "is_internal": false,
+      "data": [
+        "process"
+      ],
+      "type": [
+        "VISUALIZATION",
+        "WEBDEV"
+      ],
+      "language": [
+        "python"
+      ],
+      "Organizations": [
+        {
+          "id": -99,
+          "short_id": "ANO",
+          "legal_form": null,
+          "sector": "social_services",
+          "translations": []
+        }
+      ],
+      "Projects_Outputs": [],
+      "Podcast": null,
+      "Posts": [],
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "A dashboard to increase volunteer tutor motivation",
+          "summary": "The CorrelAid team helped design and build a dashboard for a non-profit tutoring platform. The dashboard shows tutors metrics for their tutoring - e.g. satisfaction of students - and keeps them motivated to continue their volunteering for more equity in the German school system. \n"
+        },
+        {
+          "language": "de-DE",
+          "title": "Ein Dashboard zur Steigerung der Motivation von ehrenamtlichen Tutor*innen",
+          "summary": "Das CorrelAid-Team unterstützte eine gemeinnützige Nachhilfeplattform beim Design und der Entwicklung eines Dashboards. Das Dashboard zeigt Tutor*innen anschaulich Metriken für die gegebene Nachhilfe - z.B. die Zufriedenheit der Schüler*innen - und motiviert sie, ihr Engagement für mehr Gerechtigkeit im deutschen Schulsystem fortzusetzen."
         }
       ]
     },
@@ -1639,6 +1862,99 @@
           "title": "Entwicklung eines interaktiven Fragebogens zur Verbesserung von Kinderschutzmaßnahmen im Sport",
           "summary": "Laureus Sport for Good und CorrelAid haben einen Test zur Feststellung des Niveaus des Kinderschutzes in (z. B. Sport-) Organisationen entwickelt, den es bislang lediglich in statischer PDF-Form gab. Im Rahmen dieses Projekts wurde der Test als Web App veröffentlicht, die die jeweiligen Ergebnisse für jede Organisation visuell schnell greifbar aufbereitet, dazu passende Empfehlungen für Kinderschutzmaßnahmen liefert und es Laureus erlaubt, die Daten zu speichern und auszuwerten. Die App ist in vier Sprachen (Deutsch, Englisch, Spanisch, Französisch) verfügbar.",
           "description": "<h1>Die Challenge</h1>\n<p>Es gibt in Bezug auf Kinderschutzmaßnahmen im Sport-Sektor in Deutschland und Österreich, aber auch international, erhebliche Mängel, viel fehlendes Wissen und viel fehlenden Willen, um wirksame Konzepte einzuführen und umzusetzen. Laureus Sport for Good ist Unterzeichnerin und Teil der Initiative Safe in Sport, die sich für stärkere Schutzkonzepte im Sport weltweit einsetzt, Leitfäden und Empfehlungen anbietet und bei der Erarbeitung von Schutzkonzepten unterstützt.</p>\n<p>Ein bisher bestehender Selbsttest in Form eines PDF-Dokuments, in dem manuell Punkte zusammengezählt und nach den Ergebnissen gesucht werden musste, war nicht nutzer*innen-freundlich und wurde als Folge wenig zur Überprüfung und Weiterentwicklung von Kinderschutz-Maßnahmen verwendet.</p>\n<p>Da das PDF manuell von den Organisationen offline ausgefüllt und ausgewertet wurde, gab es keinerlei Möglichkeit, basierend auf den Ergebnissen, die Organisation gezielt zu unterstützen. Außerdem war es auf Grund mangelnder Daten nicht möglich, Analysen durchzuführen, die zum Beispiel Unterschiede zwischen Organisationsformen oder Ländern aufzeigen konnten.</p>\n<p>Diese Erkenntnisse sind aber auf zweierlei Ebene wichtig: Zum einen für die Organisation selbst, um eine einfache und schnelle Einschätzung der Stärke ihrer bestehenden Prozesse und Konzepte zu erhalten und direkt Empfehlungen für die Verbesserung zu erhalten. Zum anderen für Laureus, um Angebote zu entwickeln, um die Organisationen in dem Bereich weiter zu unterstützen, und das Thema Prävention von (sexueller) Gewalt/Kinderschutz weiter in die Öffentlichkeit tragen und die Lücken aufzuzeigen.</p>\n<h1>Die Datengrundlage</h1>\n<p>Bei den zu erfassenden Daten des Tests in PDF-Form handelt es sich um eine Selbstauskunft einer Organisation zu verschiedenen Fragen des Kinderschutzes in dieser Organisation. Diese Fragen sind in acht Frageblöcke zu jeweils acht verschiedenen Bereichen an Schutzmaßnahmen aufgeteilt. Die pro Frage abgefragten Teilaspekte der Schutzmaßnahmen sind jeweils mit “noch nicht erfüllt”, “teilweise erfüllt” oder “erfüllt” zu beantworten. Vor Beginn des CorrelAid-Projektes wurden die Antworten weder systematisch gespeichert noch weitergehend analysiert, da es keine Möglichkeit gab, auf die Antworten der Teilnehmenden zuzugreifen, vor allem nicht in anonymisierter Form. Darüber hinaus bestand kein koordinierter (und anonymisierter) Weg, den Organisationen nach Ausfüllen des Fragebogens Feedback in Form von Empfehlungen zu den einzelnen Schutzmaßnahmen zukommen zu lassen.</p>\n<p>Die nun interaktive Web-App erlaubt neben der vereinfachten Nutzung des Tests und den automatisierten, auf die Antworten abgestimmten Empfehlungen auch das (anonyme) Erheben der Daten. Dabei werden Daten zur Organisationsform, zur Größe der Organisation und zum Alter der Teilnehmenden anonym in einer Google-Tabelle gespeichert sowie die codierten Antworten auf die Einzelfragen der Selbsteinschätzung.\nDie ausfüllende Organisation erhält eine PDF ihrer Antworten zum Herunterladen. Mit dem Herunterladen stimmt die Organisation zu, dass die generierten Daten bei Laureus gespeichert werden. Eine Nutzung des Tools ist auch ohne das Herunterladen/die Weiterleitung der Daten online möglich.</p>\n<p>Die generierten Daten geben einen Überblick darüber, wie weit Organisationen in ihrer Entwicklung von Kinderschutz-Maßnahmen sind und in welchen Bereichen Verbesserungsbedarf besteht. Daraus kann Laureus Sport for Good einerseits ableiten, welche Angebote die Stiftung entwickeln muss, um Organisationen in dem Bereich weiter zu unterstützen, und andererseits das Thema Prävention von (sexueller) Gewalt/Kinderschutz weiter in die Öffentlichkeit tragen und die Lücken aufzeigen.</p>\n<h1>Der Ansatz</h1>\n<p>Laureus und das Projekt-Team von CorrelAid haben gemeinsam das Konzept einer interaktiven und reaktiven <a href=\"https://laureus.shinyapps.io/Safeinsport-selfaudit/\">Web App</a> entwickelt, die den alten PDF-Fragebogen ersetzen und darüber hinausgehende Funktionalitäten aufweisen sollte. Basierend auf dem bestehenden <a href=\"https://correlaid.shinyapps.io/datamaturitymodel/\">Data-Maturity Evaluationstools Elmo</a> von CorrelAid, wurde daraufhin mit laufendem inhaltlichen Input von Seiten von Laureus im Projekt-Team ein Konzept einer Web App mit diesen Funktionalitäten entwickelt und dieses hauptsächlich mithilfe des R Shiny Packages in der Programmiersprache R geschrieben.</p>\n<p>Die Web App erfasst, wie schon der PDF-Fragebogen zuvor, Antworten zu Fragen des Kinderschutzes in Organisationen, gebündelt in acht Schutzmaßnahmen und mit jeweils drei Antwortkategorien “noch nicht erfüllt”, “teilweise erfüllt” und “erfüllt”. Diese drei Antwortkategorien sind zu Beginn des Fragebogens in einer Legende mit Ampelsystem aufgeführt, welches eine flüssige und intuitive Beantwortung der Fragen ermöglicht. Die Art der visuellen Repräsentation der Legende trägt zudem zur Barrierefreiheit des Fragebogens bei, da die einzelnen Antwortkategorien in der Legende auch für Personen mit beispielsweise Rot-Grün-Schwäche erkennbar sind. Die Ergebnisse einzelner Antworten sind dank der Implementierung in der Web App nun konstant während des Antwortens parallel einsehbar, mitsamt laufend aktualisierten Ergebnisstatistiken der Schutzmaßnahmenbereiche, wie Mittelwerten und Medianen sowie einer sich laufend aktualisierenden reaktiven Ergebnisgrafik.</p>\n<p>Über die zuvor bereits vorhandenen Fragen hinausgehend bietet die Web App Laureus nun die Möglichkeit, allgemeine Fragen zu Organisationsdaten zu stellen, um diese in potenzielle Analysen einfließen lassen zu können. Durch allgemeine Formulierungen und die Vermeidung von Freitext-Feldern bleibt die Anonymität der Befragten immer gewahrt. Zudem speichert die Web App zu keinem Zeitpunkt technische Daten wie die IP-Adresse oder die Browser-Konfiguration der Befragten, sodass auch über diesen Weg Rückschlüsse auf ihre Identität ausgeschlossen sind.</p>\n<p>Im Kontrast zum alten Fragebogen-Konzept geschehen bei Abschluss eines Online-Fragebogens in der Web App nun umgehend zweierlei Dinge: Einerseits bekommen die Befragten unmittelbares Feedback in Form eines herunterladbaren PDF, das basierend auf den gerade zuvor gegebenen Antworten Empfehlungen zu den einzelnen Schutzmaßnahmen bereitstellt. Andererseits werden die Antworten zu Organisationsdaten und Schutzmaßnahmen parallel automatisch in einer privaten nur Laureus zugänglichen Google Sheets Datei abgespeichert. Potenzielle DSGVO-bezogene Probleme bezüglich der Speicherung persönlichkeitsbezogener Daten mittels eines Google-Dienstes mit Server-Standorten außerhalb der EU sind nicht gegeben, da von vornherein keine persönlichkeitsbezogenen Daten der Befragten erfasst wurden. Der größte Vorteil dieser von CorrelAid für Laureus konzipierten Web App im Vergleich zum vorigen analogen Fragebogen liegt somit darin, dass sämtliche Antworten in digitaler Form gespeichert werden und ohne großen Aufwand für weitergehende Auswertungen und Analysen bereitstehen.</p>\n<h1>Die Wirkung</h1>\n<p>Die <a href=\"https://laureus.shinyapps.io/Safeinsport-selfaudit/\">interaktive Web App</a> bietet den Nutzer*innen die Verbesserung gegenüber dem statischen PDF-Dokument, die Ergebnisse direkt ausgewertet und visuell ansprechend zu erhalten. Für Nutzer*innen bedeutet dies einen niederschwelligen Zugang und signifikante Zeiteinsparungen. Durch die einfache Bedienbarkeit steigt auch die Reichweite des Tests. Aus Sicht von Laureus ist die Möglichkeit zur zentralen Auswertung der Testergebnisse vorteilhaft. Ein Erkenntnisgewinn ist aktuell noch nicht einschätzbar, da die App die benötigten Daten erst generiert.</p>\n<p>Um Laureus die nachhaltige codeseitige Nutzbarkeit der App zu erleichtern, wurde der Code kommentiert und bestimmte kritische Aspekte (renv-Package, lokales Aufsetzen der App, Deployment auf shinyapps.io) in der GitHub ReadMe erklärt. Darüber hinaus wurde der Code in einem Erklärvideo detailliert erläutert.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "project_id": "2022-07-COP",
+      "status": "published",
+      "date_updated": "2023-07-12T14:08:54.887Z",
+      "start_date": "2022-07-15",
+      "end_date": "2022-12-15",
+      "project_status": "finished",
+      "team_size": 9,
+      "is_internal": false,
+      "data": [
+        "govdata",
+        "opendata"
+      ],
+      "type": [
+        "EXPLORATORY",
+        "MODELLING",
+        "WEBDEV"
+      ],
+      "language": [
+        "python"
+      ],
+      "Organizations": [
+        {
+          "id": 65,
+          "short_id": "COP",
+          "legal_form": "Verwaltung",
+          "sector": "development_housing",
+          "translations": [
+            {
+              "language": "en-US",
+              "name": "City of Paris Mobility Department",
+              "website": "https://www.paris.fr/mobilites",
+              "description": null
+            },
+            {
+              "language": "de-DE",
+              "name": "Mobilitätsabteilung der Stadt Paris",
+              "website": "https://www.paris.fr/mobilites",
+              "description": null
+            }
+          ]
+        }
+      ],
+      "Projects_Outputs": [
+        {
+          "is_public": true,
+          "url": "https://paris-bikes-wfiz3bgwsa-ew.a.run.app/",
+          "output_type": "webapp",
+          "translations": [
+            {
+              "language": "en-US",
+              "description": "Paris Parking Demand Index"
+            },
+            {
+              "language": "de-DE",
+              "description": "Paris Parking Demand Index"
+            }
+          ]
+        },
+        {
+          "is_public": true,
+          "url": "https://github.com/CorrelAid/paris-bikes/",
+          "output_type": "repository",
+          "translations": [
+            {
+              "language": "de-DE",
+              "description": "Git Repository"
+            },
+            {
+              "language": "en-US",
+              "description": "Git Repository"
+            }
+          ]
+        }
+      ],
+      "Podcast": null,
+      "Posts": null,
+      "translations": [
+        {
+          "language": "en-US",
+          "title": "Where to build new bicycle parking spots in Paris? Supporting data-driven decision-making with open data",
+          "summary": "The project with the City of Paris that aimed to support data-driven decision making with open data. The CorrelAid team focused on where to build new bicycle parking spots in Paris. The main output of the project is a prototype of the Paris Parking Demand Index. It is a map that shows bike parking supply and indicators for parking demand (using open data) at the scale of IRIS (the smallest statistical spatial units used in France). The prototype serves as valuable input for the the data scientists who have joined the City of Paris since the start of the project.",
+          "description": ""
+        },
+        {
+          "language": "de-DE",
+          "title": "Wo sollen neue Fahrradparkplätze in Paris entstehen? Unterstützung der Entscheidungsfindung mit offenen Daten",
+          "summary": "Das Projekt mit der Stadt Paris hatte das Ziel, datengestützte Entscheidungsfindung mit offenen Daten zu unterstützen. Das CorrelAid Team fokussierte sich auf die Frage, wo neue Fahrradparkplätze in Paris gebaut werden sollten. Das Hauptergebnis des Projekts ist ein Prototyp des Paris Parking Demand Index. Dabei handelt es sich um eine interaktive Karte, die sowohl das Angebot an Fahrradparkplätzen als auch Indikatoren für die Parkplatznachfrage (unter Verwendung offener Daten) auf der Ebene von IRIS (der kleinsten in Frankreich verwendeten statistischen Raumeinheit) darstellt. Der Prototyp ist ein wertvoller Input für die Data Scientists, die von der Stadt Paris seit dem Start des Projekts eingestellt wurden.",
+          "description": ""
         }
       ]
     },
