@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_published": 1689555601033,
-    "last_updated": 1689259812810,
+    "last_published": 1689642000856,
+    "last_updated": 1689585402615,
     "n": 26
   },
   "projects": [
@@ -9,19 +9,14 @@
       "id": 49,
       "project_id": "2019-01-MAP",
       "status": "published",
-      "date_updated": "2023-07-13T14:49:33.841Z",
+      "date_updated": "2023-07-17T09:15:37.280Z",
       "start_date": "2019-01-15",
       "end_date": "2019-07-15",
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "PROCESS"
-      ],
-      "type": [
-        "EXPLORATORY",
-        "MODELLING"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "RSTATS"
       ],
@@ -69,14 +64,14 @@
       "translations": [
         {
           "language": "en-US",
-          "title": "Lebensmittelverschwendung reduzieren und Planung verbessern: Zeitreihenanalyse für ein Restaurant für bedürftige Menschen",
-          "summary": "Die \"Mannheimer Platte\" ist ein Restaurant, das allen, vor allem aber armen Menschen, ein bezahlbares Mittagessen anbietet.  Das Projekt mit CorrelAid hatte zum Ziel, die Prozesse innerhalb der Organisation zu optimieren und zu evaluieren. Das Team der Mannheimer Platte benötigte Einblicke in die Faktoren, die den Absatz und die Nachfrage nach den Mahlzeiten beeinflussen, um die Beschaffungsplanung zu verbessern. Die Daten bestanden aus 17 Jahren Zeitreihen, die täglich aufgezeichnet wurden und Variablen wie die Anzahl der ausgegebenen Speisen und Getränke und den Gesamtumsatz enthielten. Die Daten waren in Excel-Dateien gespeichert. Das CorrelAid-Team half bei der Datenanalyse mit R und SAS, indem es die Daten bereinigte und aufbereitete. Das Projekt lieferte Einblicke, die die Intuition der Ehrenamtlichen hinsichtlich der Beliebtheit des Essens an bestimmten Wochentagen bestätigten, und zeigte Muster auf, wie z.B. reduzierte Bestellungen und verstärkte Nutzung von Gutscheinen gegen Ende des Monats. Die Organisation lernte den Wert von Daten und ihr Potenzial zur Entscheidungsfindung kennen. Die Ergebnisse des Projekts wurden im Rahmen eines Übergabeworkshops und von Präsentationen weitergegeben, einschließlich leicht verständlicher Heuristiken, die aus den statistischen Modellen abgeleitet wurden.",
+          "title": "Reducing food waste and improving planning processes: time series analysis for a restaurant for those in need",
+          "summary": "The \"Mannheimer Platte\" is a restaurant that offers affordable lunches to everyone, but especially those without financial means.  The project with CorrelAid aimed at optimizing and evaluating processes within the organization. The Mannheimer Platte team needed insights into the factors influencing sales and demand for the meals to improve procurement planning. The data consisted of 17 years of time-series data, recorded daily, including variables such as the number of meals and beverages served and the total revenue. The data was stored in Excel files, and the CorrelAid team helped with data analysis using R and SAS, performing data cleaning and wrangling tasks. The project provided insights confirming the intuition of the volunteers regarding the meal's popularity on certain weekdays and revealed patterns such as reduced orders and increased use of vouchers towards the end of the month. The organization learned the value of data and its potential to inform decision-making. The outputs of the project were shared through a handover workshop and presentations, including easy-to-understand heuristics derived from statistical models.",
           "description": null
         },
         {
           "language": "de-DE",
-          "title": "Reducing food waste and improving planning processes: time series analysis for a restaurant for those in need",
-          "summary": "The \"Mannheimer Platte\" is a restaurant that offers affordable lunches to everyone, but especially those without financial means.  The project with CorrelAid aimed at optimizing and evaluating processes within the organization. The Mannheimer Platte team needed insights into the factors influencing sales and demand for the meals to improve procurement planning. The data consisted of 17 years of time-series data, recorded daily, including variables such as the number of meals and beverages served and the total revenue. The data was stored in Excel files, and the CorrelAid team helped with data analysis using R and SAS, performing data cleaning and wrangling tasks. The project provided insights confirming the intuition of the volunteers regarding the meal's popularity on certain weekdays and revealed patterns such as reduced orders and increased use of vouchers towards the end of the month. The organization learned the value of data and its potential to inform decision-making. The outputs of the project were shared through a handover workshop and presentations, including easy-to-understand heuristics derived from statistical models.",
+          "title": "Lebensmittelverschwendung reduzieren und Planung verbessern: Zeitreihenanalyse für ein Restaurant für bedürftige Menschen",
+          "summary": "Die \"Mannheimer Platte\" ist ein Restaurant, das allen, vor allem aber armen Menschen, ein bezahlbares Mittagessen anbietet.  Das Projekt mit CorrelAid hatte zum Ziel, die Prozesse innerhalb der Organisation zu optimieren und zu evaluieren. Das Team der Mannheimer Platte benötigte Einblicke in die Faktoren, die den Absatz und die Nachfrage nach den Mahlzeiten beeinflussen, um die Beschaffungsplanung zu verbessern. Die Daten bestanden aus 17 Jahren Zeitreihen, die täglich aufgezeichnet wurden und Variablen wie die Anzahl der ausgegebenen Speisen und Getränke und den Gesamtumsatz enthielten. Die Daten waren in Excel-Dateien gespeichert. Das CorrelAid-Team half bei der Datenanalyse mit R und SAS, indem es die Daten bereinigte und aufbereitete. Das Projekt lieferte Einblicke, die die Intuition der Ehrenamtlichen hinsichtlich der Beliebtheit des Essens an bestimmten Wochentagen bestätigten, und zeigte Muster auf, wie z.B. reduzierte Bestellungen und verstärkte Nutzung von Gutscheinen gegen Ende des Monats. Die Organisation lernte den Wert von Daten und ihr Potenzial zur Entscheidungsfindung kennen. Die Ergebnisse des Projekts wurden im Rahmen eines Übergabeworkshops und von Präsentationen weitergegeben, einschließlich leicht verständlicher Heuristiken, die aus den statistischen Modellen abgeleitet wurden.",
           "description": null
         }
       ]
@@ -85,21 +80,14 @@
       "id": 57,
       "project_id": "2022-11-ATT",
       "status": "published",
-      "date_updated": "2023-07-13T14:49:34.216Z",
+      "date_updated": "2023-07-17T09:16:42.615Z",
       "start_date": "2022-11-09",
       "end_date": "2022-11-20",
       "project_status": "finished",
       "team_size": 1,
       "is_internal": false,
-      "data": [
-        "OPENDATA",
-        "PROCESS"
-      ],
-      "type": [
-        "EXPLORATORY",
-        "REPORTING",
-        "VISUALIZATION"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "RSTATS",
         "PYTHON"
@@ -178,14 +166,14 @@
       "translations": [
         {
           "language": "en-US",
-          "title": "Qualitätsanalyse von OpenStreetMap Daten für Trinkbrunnen",
-          "summary": "Ziel dieses Projekts war die Analyse von Open Street Maps (OSM) Daten zu Trinkbrunnen in Deutschland. Der Fokus lag auf der Ermittlung der Anzahl der gelisteten Trinkstellen pro 1000 Einwohner in verschiedenen Städten und dem Vergleich dieser Daten mit den offiziellen Zahlen einiger Städte. Darüber hinaus wurde die Qualität der Metadaten durch den Vergleich mit den definierten Pflichtangaben bewertet, darunter Attribute wie Brunnentyp, Nachfüllmöglichkeit, Barrierefreiheit, öffentliche Zugänglichkeit und weitere Informationen.",
+          "title": "Assessing the quality of OpenStreetMap data for drinking fountains",
+          "summary": "This project aimed to analyze Open Street Maps (OSM) data on drinking fountains in Germany. The focus was on determining the number of listed drinking points per 1000 inhabitants in various cities and comparing this data with the official numbers provided by some cities. The quality of metadata was also assessed by comparing it with the defined mandatory information, including attributes such as fountain type, refillable bottle option, accessibility, public accessibility, and descriptive information.",
           "description": null
         },
         {
           "language": "de-DE",
-          "title": "Assessing the quality of OpenStreetMap data for drinking fountains",
-          "summary": "This project aimed to analyze Open Street Maps (OSM) data on drinking fountains in Germany. The focus was on determining the number of listed drinking points per 1000 inhabitants in various cities and comparing this data with the official numbers provided by some cities. The quality of metadata was also assessed by comparing it with the defined mandatory information, including attributes such as fountain type, refillable bottle option, accessibility, public accessibility, and descriptive information.",
+          "title": "Qualitätsanalyse von OpenStreetMap Daten für Trinkbrunnen",
+          "summary": "Ziel dieses Projekts war die Analyse von Open Street Maps (OSM) Daten zu Trinkbrunnen in Deutschland. Der Fokus lag auf der Ermittlung der Anzahl der gelisteten Trinkstellen pro 1000 Einwohner in verschiedenen Städten und dem Vergleich dieser Daten mit den offiziellen Zahlen einiger Städte. Darüber hinaus wurde die Qualität der Metadaten durch den Vergleich mit den definierten Pflichtangaben bewertet, darunter Attribute wie Brunnentyp, Nachfüllmöglichkeit, Barrierefreiheit, öffentliche Zugänglichkeit und weitere Informationen.",
           "description": null
         }
       ]
@@ -200,12 +188,8 @@
       "project_status": "finished",
       "team_size": 5,
       "is_internal": false,
-      "data": [
-        "survey"
-      ],
-      "type": [
-        "exploratory"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -259,13 +243,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "survey"
-      ],
-      "type": [
-        "DATA_COLLECTION",
-        "REPORTING"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -324,13 +303,8 @@
       "project_status": "finished",
       "team_size": 5,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "exploratory",
-        "modelling"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats",
         "python"
@@ -401,12 +375,8 @@
       "project_status": "finished",
       "team_size": 5,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "automation"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -465,13 +435,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "process",
-        "opendata"
-      ],
-      "type": [
-        "visualization"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "python",
         "javascript"
@@ -557,12 +522,8 @@
       "project_status": "finished",
       "team_size": 6,
       "is_internal": false,
-      "data": [
-        "opendata"
-      ],
-      "type": [
-        "modelling"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -652,12 +613,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "visualization"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -696,12 +653,8 @@
       "project_status": "finished",
       "team_size": 5,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "webdev"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "javascript"
       ],
@@ -801,15 +754,8 @@
       "project_status": "finished",
       "team_size": 2,
       "is_internal": false,
-      "data": [
-        "PROCESS",
-        "SURVEY"
-      ],
-      "type": [
-        "EXPLORATORY",
-        "REPORTING",
-        "VISUALIZATION"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -884,14 +830,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "survey",
-        "govdata"
-      ],
-      "type": [
-        "visualization",
-        "data collection"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -961,13 +901,8 @@
       "project_status": "finished",
       "team_size": 3,
       "is_internal": false,
-      "data": [
-        "govdata"
-      ],
-      "type": [
-        "visualization",
-        "automation"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1057,13 +992,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "survey",
-        "process"
-      ],
-      "type": [
-        "exploratory"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1117,15 +1047,8 @@
       "project_status": "finished",
       "team_size": 6,
       "is_internal": true,
-      "data": [
-        "process",
-        "opendata"
-      ],
-      "type": [
-        "EXPLORATORY",
-        "MODELLING",
-        "VISUALIZATION"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "PYTHON"
       ],
@@ -1255,12 +1178,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "visualization"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats",
         "python"
@@ -1353,12 +1272,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "survey"
-      ],
-      "type": [
-        "visualization"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1417,12 +1332,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "survey"
-      ],
-      "type": [
-        "visualization"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1537,13 +1448,8 @@
       "project_status": "finished",
       "team_size": 5,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "VISUALIZATION",
-        "WEBDEV"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "python"
       ],
@@ -1582,10 +1488,8 @@
       "project_status": "finished",
       "team_size": 5,
       "is_internal": true,
-      "data": {},
-      "type": [
-        "opensource"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1670,12 +1574,8 @@
       "project_status": "finished",
       "team_size": 6,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "automation"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1714,13 +1614,8 @@
       "project_status": "finished",
       "team_size": 4,
       "is_internal": false,
-      "data": [
-        "survey",
-        "process"
-      ],
-      "type": [
-        "exploratory"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1805,13 +1700,8 @@
       "project_status": "finished",
       "team_size": 5,
       "is_internal": false,
-      "data": [
-        "process"
-      ],
-      "type": [
-        "visualization",
-        "webdev"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "rstats"
       ],
@@ -1896,15 +1786,8 @@
       "project_status": "finished",
       "team_size": 9,
       "is_internal": false,
-      "data": [
-        "govdata",
-        "opendata"
-      ],
-      "type": [
-        "EXPLORATORY",
-        "MODELLING",
-        "WEBDEV"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "python"
       ],
@@ -1989,13 +1872,8 @@
       "project_status": "unclear",
       "team_size": 3,
       "is_internal": false,
-      "data": [
-        "opendata"
-      ],
-      "type": [
-        "opensource",
-        "modelling"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "python"
       ],
@@ -2034,14 +1912,8 @@
       "project_status": "finished",
       "team_size": 6,
       "is_internal": false,
-      "data": [
-        "survey",
-        "process"
-      ],
-      "type": [
-        "automation",
-        "data management"
-      ],
+      "data": null,
+      "type": null,
       "language": [
         "python"
       ],
