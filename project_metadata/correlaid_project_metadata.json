@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_published": 1690160400414,
-    "last_updated": 1689585402615,
+    "last_published": 1690246800395,
+    "last_updated": 1690180651514,
     "n": 26
   },
   "projects": [
@@ -1041,7 +1041,7 @@
       "id": 114,
       "project_id": "2020-10-CIT",
       "status": "published",
-      "date_updated": "2023-07-13T14:49:53.130Z",
+      "date_updated": "2023-07-24T06:37:31.514Z",
       "start_date": "2020-10-15",
       "end_date": "2021-05-15",
       "project_status": "finished",
@@ -1052,28 +1052,7 @@
       "language": [
         "PYTHON"
       ],
-      "Organizations": [
-        {
-          "id": 65,
-          "short_id": "COP",
-          "legal_form": "Verwaltung",
-          "sector": "development_housing",
-          "translations": [
-            {
-              "language": "en-US",
-              "name": "City of Paris Mobility Department",
-              "website": "https://www.paris.fr/mobilites",
-              "description": null
-            },
-            {
-              "language": "de-DE",
-              "name": "Mobilitätsabteilung der Stadt Paris",
-              "website": "https://www.paris.fr/mobilites",
-              "description": null
-            }
-          ]
-        }
-      ],
+      "Organizations": [],
       "Projects_Outputs": [
         {
           "is_public": true,
